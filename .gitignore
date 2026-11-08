@@ -218,3 +218,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Dados gerados localmente
+data/raw/
+
+# Segredos: nunca versionar
+.env
+service-account*.json
+*-key.json
