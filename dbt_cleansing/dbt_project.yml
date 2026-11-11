@@ -1,0 +1,22 @@
+name: 'dbt_cleansing'
+version: '1.0.0'
+config-version: 2
+profile: 'dbt_cleansing'
+
+model-paths: ["models"]
+macro-paths: ["macros"]
+snapshot-paths: ["snapshots"]
+test-paths: ["tests"]
+
+models:
+  dbt_cleansing:
+    staging:
+      +schema: staging
+      +materialized: table
+    intermediate:
+      +schema: intermediate
+      +materialized: table
+    marts:
+      +schema: marts
+      +materialized: table
+      

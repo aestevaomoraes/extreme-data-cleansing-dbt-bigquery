@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: raw
+    database: projeto-sql-492802
+    schema: dbt_cleansing_raw
+    tables:
+      - name: clientes_raw
+      - name: transacoes_raw

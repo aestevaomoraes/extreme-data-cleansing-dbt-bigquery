@@ -226,3 +226,8 @@ data/raw/
 .env
 service-account*.json
 *-key.json
+
+# dbt
+dbt_cleansing/target/
+dbt_cleansing/logs/
+dbt_cleansing/dbt_packages/
