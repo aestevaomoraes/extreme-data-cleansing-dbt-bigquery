@@ -1,0 +1,36 @@
+version: 2
+
+models:
+  - name: stg_clientes
+    columns:
+      - name: cliente_id
+        data_tests:
+          - unique
+          - not_null
+      - name: email
+        data_tests:
+          - not_null:
+              config:
+                severity: warn
+
+  - name: stg_transacoes
+    columns:
+      - name: transacao_id
+        data_tests:
+          - unique
+          - not_null
+      - name: cliente_id
+        data_tests:
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('stg_clientes')
+                field: cliente_id
+      - name: valor_brl
+        data_tests:
+          - not_null
+      - name: status
+        data_tests:
+          - accepted_values:
+              arguments:
+                values: ['pago', 'cancelado', 'estornado']
