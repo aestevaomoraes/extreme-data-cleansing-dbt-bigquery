@@ -230,4 +230,5 @@ service-account*.json
 # dbt
 dbt_cleansing/target/
 dbt_cleansing/logs/
-dbt_cleansing/dbt_packages/.user.yml
+dbt_cleansing/dbt_packages/
+.user.yml
