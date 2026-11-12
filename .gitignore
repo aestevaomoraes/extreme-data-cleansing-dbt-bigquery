@@ -232,3 +232,4 @@ dbt_cleansing/target/
 dbt_cleansing/logs/
 dbt_cleansing/dbt_packages/
 .user.yml
+logs/

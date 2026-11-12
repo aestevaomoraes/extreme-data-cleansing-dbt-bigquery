@@ -10,18 +10,23 @@
 }}
 
 select
-    transacao_id,
-    cliente_id,
-    produto,
-    moeda,
-    valor_original,
-    taxa_cambio,
-    valor_brl,
-    simbolo_original,
-    flag_moeda_inferida,
-    data_compra,
-    status,
-    flag_valor_negativo,
-    flag_anomalia,
-    receita_valida
-from {{ ref('int_transacoes_auditadas') }}
+    f.transacao_id,
+    d.cliente_sk,
+    f.cliente_id,
+    d.cidade as cidade_na_compra,
+    f.produto,
+    f.moeda,
+    f.valor_original,
+    f.taxa_cambio,
+    f.valor_brl,
+    f.simbolo_original,
+    f.flag_moeda_inferida,
+    f.data_compra,
+    f.status,
+    f.flag_valor_negativo,
+    f.flag_anomalia,
+    f.receita_valida
+from {{ ref('int_transacoes_auditadas') }} as f
+left join {{ ref('dim_customers_scd2') }} as d
+    on f.cliente_id = d.cliente_id
+    and f.data_compra between d.valid_from and d.valid_to
