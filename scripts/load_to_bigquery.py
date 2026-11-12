@@ -31,4 +31,8 @@ def carregar(arquivo, tabela, colunas):
 carregar(DATA_DIR / "clientes.csv", "clientes_raw",
          ["cliente_id", "nome", "email", "cidade", "data_cadastro"])
 carregar(DATA_DIR / "transacoes.csv", "transacoes_raw",
-         ["transacao_id", "cliente_id", "produto", "valor", "data_compra", "status"])
+         ["transacao_id", "cliente_id", "produto", "moeda", "valor", "data_compra", "status"])
+carregar(DATA_DIR / "clientes_historico.csv", "clientes_historico_raw",
+         ["cliente_id", "cidade", "data_inicio"])
+carregar(DATA_DIR / "cambio.csv", "cambio_raw",
+         ["data", "moeda", "taxa_para_brl"])

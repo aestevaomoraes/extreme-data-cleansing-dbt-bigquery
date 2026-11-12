@@ -7,3 +7,5 @@ sources:
     tables:
       - name: clientes_raw
       - name: transacoes_raw
+      - name: clientes_historico_raw
+      - name: cambio_raw

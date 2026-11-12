@@ -26,11 +26,23 @@ models:
               arguments:
                 to: ref('stg_clientes')
                 field: cliente_id
-      - name: valor_brl
+      - name: valor_original
         data_tests:
           - not_null
+      - name: moeda
+        data_tests:
+          - not_null
+          - accepted_values:
+              arguments:
+                values: ['BRL', 'USD', 'EUR']
       - name: status
         data_tests:
           - accepted_values:
               arguments:
                 values: ['pago', 'cancelado', 'estornado']
+
+  - name: stg_cambio
+    columns:
+      - name: taxa_para_brl
+        data_tests:
+          - not_null
