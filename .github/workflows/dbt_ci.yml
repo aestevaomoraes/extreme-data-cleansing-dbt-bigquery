@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       DBT_ENGINE_MANAGE_STATE: "false"
-      GCP_KEYFILE: ${{ runner.temp }}/gcp-key.json
+      GCP_KEYFILE: /tmp/gcp-key.json
     steps:
       - name: Checkout do código
         uses: actions/checkout@v4
