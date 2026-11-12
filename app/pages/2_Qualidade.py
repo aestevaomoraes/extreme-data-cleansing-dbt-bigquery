@@ -6,7 +6,7 @@ import streamlit as st
 
 SNAP = Path(__file__).resolve().parent.parent.parent / "data" / "snapshot"
 
-st.set_page_config(page_title="Qualidade", layout="wide")
+st.set_page_config(page_title="Qualidade", page_icon="🔍", layout="wide")
 
 
 @st.cache_data

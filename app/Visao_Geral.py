@@ -7,7 +7,7 @@ import streamlit as st
 SNAP = Path(__file__).resolve().parent.parent / "data" / "snapshot"
 LABELS = {"valor_brl": "Receita (BRL)", "moeda": "Moeda", "produto": "Produto", "mes": "Mês"}
 
-st.set_page_config(page_title="Saneamento Extremo", layout="wide")
+st.set_page_config(page_title="Saneamento Extremo", page_icon="📊", layout="wide")
 
 
 def brl(v):
