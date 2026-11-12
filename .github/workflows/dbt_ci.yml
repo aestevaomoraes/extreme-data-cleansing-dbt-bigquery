@@ -1,0 +1,32 @@
+name: dbt CI
+
+on:
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  dbt-build:
+    runs-on: ubuntu-latest
+    env:
+      DBT_ENGINE_MANAGE_STATE: "false"
+      GCP_KEYFILE: ${{ runner.temp }}/gcp-key.json
+    steps:
+      - name: Checkout do código
+        uses: actions/checkout@v4
+
+      - name: Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Instalar dependências
+        run: pip install -r requirements.txt
+
+      - name: Gravar chave da service account
+        run: printf '%s' '${{ secrets.GCP_SA_KEY }}' > "$GCP_KEYFILE"
+
+      - name: dbt build (modelos + testes) no dataset de CI
+        working-directory: dbt_cleansing
+        run: dbt build --target ci
