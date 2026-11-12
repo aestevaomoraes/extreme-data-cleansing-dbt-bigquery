@@ -48,14 +48,17 @@ con.execute(f"""
                  ELSE 'EUR' END AS moeda,
             round(50 + random() * 4950, 2) AS valor_brl,
             DATE '2025-01-01' + CAST(floor(random() * 365) AS INTEGER) AS data_compra,
-            ['pago', 'cancelado', 'estornado'][1 + CAST(floor(random() * 3) AS INTEGER)] AS status
+            random() AS u_status
         FROM range(1, {N_TRANSACOES + 1}) t(i)
     )
     SELECT
         b.transacao_id, b.cliente_id, b.produto, b.moeda,
         CASE WHEN b.moeda = 'BRL' THEN b.valor_brl
              ELSE round(b.valor_brl / c.taxa_para_brl, 2) END AS valor,
-        b.data_compra, b.status
+        b.data_compra,
+        CASE WHEN b.u_status < 0.80 THEN 'pago'
+             WHEN b.u_status < 0.92 THEN 'cancelado'
+             ELSE 'estornado' END AS status
     FROM base b
     LEFT JOIN cambio_limpo c ON c.data = b.data_compra AND c.moeda = b.moeda
 """)
