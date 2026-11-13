@@ -10,8 +10,8 @@ OUT.mkdir(parents=True, exist_ok=True)
 client = bigquery.Client(project=PROJECT)
 
 CONSULTAS = {
-    "fct_transactions": f"select * from `{PROJECT}.dbt_cleansing_marts.fct_transactions`",
-    "dim_customers": f"select * from `{PROJECT}.dbt_cleansing_marts.dim_customers`",
+    "fct_transactions": f"select * from `{PROJECT}.dbt_cleansing_marts.fct_transactions` order by transacao_id",
+    "dim_customers": f"select * from `{PROJECT}.dbt_cleansing_marts.dim_customers` order by cliente_id",
     "resumo_qualidade": f"""
         select 'transacoes_brutas' as metrica, count(*) as valor
           from `{PROJECT}.dbt_cleansing_raw.transacoes_raw`
