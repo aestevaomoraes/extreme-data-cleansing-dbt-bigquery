@@ -71,11 +71,26 @@ flowchart LR
 - `fct_transactions` é particionada por **faixa de inteiros** em `cliente_id` (0 a 1.100, intervalo de 100) e clusterizada por `status` e `data_compra`.
 - A primeira tentativa foi partição por data. No sandbox, as partições de 2025 expiraram sozinhas e a tabela ficou com 0 linhas, sem nenhum erro. A partição por faixa de inteiros não expira e resolveu o problema.
 
+### Deduplicação determinística
+
+As transações duplicadas não são cópias exatas: em 106 `transacao_id` as versões ainda divergem depois da limpeza (valor, símbolo da moeda e flag de moeda inferida). Sem desempate, o BigQuery escolhia uma versão arbitrária e o resultado podia mudar entre builds (ponto levantado por um leitor do post no LinkedIn).
+
+O `stg_transacoes` agora desempata em camadas:
+1. `data_compra` mais recente;
+2. valor não negativo (negativo é defeito marcado);
+3. moeda informada, em vez de inferida;
+4. valor escrito com símbolo de moeda;
+5. hash da linha, só como rede de segurança.
+
+A limpeza ficou em `stg_transacoes_limpo` (modelo efêmero) e a deduplicação em `stg_transacoes`. O teste `assert_duplicatas_sem_empate_arbitrario` falha se sobrar empate entre versões diferentes, e foi validado por sabotagem (falhou com 93 casos ao remover um critério).
+
+Impacto medido: 50 de 10.000 linhas mudaram. Receita, transações e ticket ficaram iguais; moedas inferidas passaram de 147 para 141 e valores negativos de 114 para 113.
+
 ## Qualidade e testes
 
-- **14 testes de dados**: genéricos (`unique`, `not_null`, `accepted_values`, `relationships`) e 2 singulares em SQL (`assert_no_negative_revenues` e `assert_one_current_version_per_customer`).
+- **15 testes de dados**: genéricos (`unique`, `not_null`, `accepted_values`, `relationships`) e 3 singulares em SQL (`assert_no_negative_revenues`, `assert_one_current_version_per_customer` e `assert_duplicatas_sem_empate_arbitrario`).
 - **Severidade**: e-mail ausente é `warn` (31 clientes), porque é um problema conhecido que não deve bloquear o pipeline. O restante é `error`.
-- **Resultado atual**: `PASS=21 WARN=1 ERROR=0` (8 modelos e 14 testes).
+- **Resultado atual**: `PASS=22 WARN=1 ERROR=0` (9 modelos, sendo 1 efêmero, e 15 testes).
 
 ### CI com GitHub Actions
 - A cada Pull Request, o workflow `dbt_ci.yml` roda `dbt build --target ci` num dataset separado (`dbt_cleansing_ci`), com uma service account de privilégio mínimo (BigQuery Job User e Data Editor), guardada como secret do repositório.
@@ -165,6 +180,7 @@ Os dados brutos (`data/raw/`) são gerados localmente e ficam fora do Git.
 
 ## Melhorias futuras
 
+- Centralizar os critérios de desempate em uma macro, para não duplicá-los entre o modelo e o teste.
 - Expor no fato mais flags de auditoria já calculadas na camada intermediate (como compra antes do cadastro). Hoje `flag_anomalia` coincide com `flag_valor_negativo`.
 - Testes nos marts, como `relationships` entre a tabela fato e a dimensão SCD2.
 - Modelos incrementais e documentação gerada com `dbt docs`.

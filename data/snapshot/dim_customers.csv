@@ -1,1001 +1,1001 @@
 cliente_id,nome,email,cidade,data_cadastro,flag_email_ausente
-371,Cliente 371,cliente371@exemplo.com,Cuiabá,2023-08-21,False
-773,Cliente 773,cliente773@exemplo.com,Cuiabá,2022-03-18,False
-16,Cliente 16,cliente16@exemplo.com,Cuiabá,2024-01-20,False
-511,Cliente 511,cliente511@exemplo.com,Cuiabá,2023-07-31,False
-937,Cliente 937,cliente937@exemplo.com,Cuiabá,2024-03-14,False
-245,Cliente 245,cliente245@exemplo.com,Cuiabá,2023-06-26,False
-418,Cliente 418,cliente418@exemplo.com,Cuiabá,2023-01-13,False
-686,Cliente 686,cliente686@exemplo.com,Cuiabá,2023-07-09,False
-973,Cliente 973,cliente973@exemplo.com,Cuiabá,2024-04-07,False
-22,Cliente 22,cliente22@exemplo.com,Cuiabá,2023-09-14,False
-744,Cliente 744,cliente744@exemplo.com,Cuiabá,2023-11-11,False
-190,Cliente 190,cliente190@exemplo.com,Cuiabá,2023-02-01,False
-815,Cliente 815,cliente815@exemplo.com,Cuiabá,2023-09-26,False
-414,Cliente 414,cliente414@exemplo.com,Cuiabá,2024-06-02,False
-569,Cliente 569,cliente569@exemplo.com,Cuiabá,2022-01-19,False
-712,Cliente 712,cliente712@exemplo.com,Cuiabá,2023-02-22,False
-566,Cliente 566,cliente566@exemplo.com,Cuiabá,2023-03-08,False
-818,Cliente 818,cliente818@exemplo.com,Cuiabá,2024-03-20,False
-787,Cliente 787,cliente787@exemplo.com,Cuiabá,2022-01-01,False
-469,Cliente 469,cliente469@exemplo.com,Cuiabá,2023-12-04,False
-221,Cliente 221,cliente221@exemplo.com,Cuiabá,2022-12-04,False
-273,Cliente 273,cliente273@exemplo.com,Cuiabá,2022-10-22,False
-997,Cliente 997,cliente997@exemplo.com,Cuiabá,2024-05-03,False
-934,Cliente 934,cliente934@exemplo.com,Cuiabá,2023-06-02,False
-760,Cliente 760,cliente760@exemplo.com,Cuiabá,2023-07-13,False
-857,Cliente 857,cliente857@exemplo.com,Cuiabá,2024-05-23,False
-936,Cliente 936,cliente936@exemplo.com,Cuiabá,2022-09-08,False
-564,Cliente 564,cliente564@exemplo.com,Cuiabá,2023-07-17,False
-141,Cliente 141,cliente141@exemplo.com,Cuiabá,2022-03-01,False
-361,Cliente 361,cliente361@exemplo.com,Cuiabá,2023-08-15,False
-295,Cliente 295,cliente295@exemplo.com,Cuiabá,2022-11-16,False
-879,Cliente 879,cliente879@exemplo.com,Cuiabá,2024-04-23,False
-87,Cliente 87,cliente87@exemplo.com,Cuiabá,2023-05-15,False
-491,Cliente 491,cliente491@exemplo.com,Cuiabá,2023-05-20,False
-261,Cliente 261,cliente261@exemplo.com,Cuiabá,2022-11-28,False
-387,Cliente 387,cliente387@exemplo.com,Cuiabá,2022-10-23,False
-568,Cliente 568,cliente568@exemplo.com,Cuiabá,2022-10-13,False
-192,Cliente 192,cliente192@exemplo.com,Cuiabá,2024-05-05,False
-251,Cliente 251,cliente251@exemplo.com,Cuiabá,2024-05-19,False
-304,Cliente 304,cliente304@exemplo.com,Cuiabá,2023-02-28,False
-415,Cliente 415,cliente415@exemplo.com,Cuiabá,2023-01-27,False
-13,Cliente 13,cliente13@exemplo.com,Cuiabá,2022-10-15,False
-677,Cliente 677,cliente677@exemplo.com,Cuiabá,2023-01-28,False
-747,Cliente 747,cliente747@exemplo.com,Cuiabá,2023-09-08,False
-195,Cliente 195,cliente195@exemplo.com,Cuiabá,2022-04-30,False
-647,Cliente 647,cliente647@exemplo.com,Cuiabá,2023-10-21,False
-739,Cliente 739,cliente739@exemplo.com,Cuiabá,2023-08-03,False
-701,Cliente 701,cliente701@exemplo.com,Cuiabá,2024-03-06,False
-617,Cliente 617,cliente617@exemplo.com,Cuiabá,2023-03-09,False
-94,Cliente 94,cliente94@exemplo.com,Cuiabá,2022-11-02,False
-619,Cliente 619,cliente619@exemplo.com,Cuiabá,2022-12-23,False
-594,Cliente 594,cliente594@exemplo.com,Cuiabá,2022-02-08,False
-880,Cliente 880,cliente880@exemplo.com,Cuiabá,2024-01-02,False
-902,Cliente 902,cliente902@exemplo.com,Cuiabá,2022-07-13,False
-840,Cliente 840,cliente840@exemplo.com,Cuiabá,2022-08-20,False
-137,Cliente 137,cliente137@exemplo.com,Cuiabá,2022-11-25,False
-886,Cliente 886,cliente886@exemplo.com,Cuiabá,2023-09-14,False
-872,Cliente 872,cliente872@exemplo.com,Cuiabá,2022-06-09,False
-275,Cliente 275,cliente275@exemplo.com,Cuiabá,2024-05-04,False
-782,Cliente 782,cliente782@exemplo.com,Cuiabá,2024-02-06,False
-167,Cliente 167,cliente167@exemplo.com,Cuiabá,2023-04-29,False
-538,Cliente 538,cliente538@exemplo.com,Cuiabá,2024-02-24,False
-920,Cliente 920,cliente920@exemplo.com,Cuiabá,2022-03-09,False
-808,Cliente 808,cliente808@exemplo.com,Cuiabá,2024-02-10,False
-194,Cliente 194,cliente194@exemplo.com,Cuiabá,2022-09-19,False
-60,Cliente 60,cliente60@exemplo.com,Cuiabá,2022-10-03,False
-666,Cliente 666,cliente666@exemplo.com,Cuiabá,2023-01-26,False
-842,Cliente 842,cliente842@exemplo.com,Cuiabá,2022-01-14,False
-269,Cliente 269,cliente269@exemplo.com,Cuiabá,2022-05-21,False
-431,Cliente 431,cliente431@exemplo.com,Cuiabá,2023-06-06,False
-748,Cliente 748,cliente748@exemplo.com,Cuiabá,2023-05-27,False
-336,Cliente 336,cliente336@exemplo.com,Cuiabá,2023-09-29,False
-220,Cliente 220,cliente220@exemplo.com,Cuiabá,2023-03-21,False
-142,Cliente 142,cliente142@exemplo.com,Cuiabá,2022-11-17,False
-545,Cliente 545,cliente545@exemplo.com,Cuiabá,2022-12-17,False
-146,Cliente 146,cliente146@exemplo.com,Cuiabá,2022-11-21,False
-436,Cliente 436,cliente436@exemplo.com,Cuiabá,2023-04-04,False
-374,Cliente 374,cliente374@exemplo.com,Cuiabá,2023-12-23,False
-769,Cliente 769,cliente769@exemplo.com,Cuiabá,2022-07-20,False
-490,Cliente 490,cliente490@exemplo.com,Cuiabá,2023-05-31,False
-715,Cliente 715,cliente715@exemplo.com,Cuiabá,2024-05-04,False
-766,Cliente 766,cliente766@exemplo.com,Cuiabá,2022-06-25,False
-124,Cliente 124,cliente124@exemplo.com,Cuiabá,2024-06-11,False
-298,Cliente 298,cliente298@exemplo.com,Cuiabá,2022-05-03,False
-827,Cliente 827,cliente827@exemplo.com,Cuiabá,2022-09-06,False
-84,Cliente 84,cliente84@exemplo.com,Cuiabá,2022-01-03,False
-608,Cliente 608,cliente608@exemplo.com,Cuiabá,2024-04-08,False
-487,Cliente 487,cliente487@exemplo.com,Cuiabá,2022-10-09,False
-430,Cliente 430,cliente430@exemplo.com,Cuiabá,2023-09-15,False
-635,Cliente 635,cliente635@exemplo.com,Cuiabá,2024-05-14,False
-300,Cliente 300,cliente300@exemplo.com,Cuiabá,2024-04-14,False
-916,Cliente 916,cliente916@exemplo.com,Cuiabá,2023-06-02,False
-429,Cliente 429,cliente429@exemplo.com,Cuiabá,2022-11-18,False
-866,Cliente 866,cliente866@exemplo.com,Cuiabá,2024-02-11,False
-276,Cliente 276,cliente276@exemplo.com,Cuiabá,2023-03-06,False
-184,Cliente 184,cliente184@exemplo.com,Cuiabá,2023-03-30,False
-676,Cliente 676,cliente676@exemplo.com,Cuiabá,2022-05-06,False
-711,Cliente 711,cliente711@exemplo.com,Cuiabá,2023-12-11,False
-125,Cliente 125,cliente125@exemplo.com,Cuiabá,2023-10-15,False
-450,Cliente 450,cliente450@exemplo.com,Cuiabá,2022-02-27,False
-755,Cliente 755,cliente755@exemplo.com,Cuiabá,2022-09-19,False
-793,Cliente 793,cliente793@exemplo.com,Cuiabá,2023-01-27,False
-546,Cliente 546,cliente546@exemplo.com,Cuiabá,2022-03-16,False
-200,Cliente 200,cliente200@exemplo.com,Cuiabá,2023-04-12,False
-464,Cliente 464,cliente464@exemplo.com,Cuiabá,2022-01-30,False
-891,Cliente 891,cliente891@exemplo.com,Cuiabá,2022-12-31,False
-170,Cliente 170,cliente170@exemplo.com,Cuiabá,2022-03-30,False
-890,Cliente 890,cliente890@exemplo.com,Cuiabá,2024-03-15,False
-90,Cliente 90,cliente90@exemplo.com,Cuiabá,2023-11-04,False
-778,Cliente 778,cliente778@exemplo.com,Cuiabá,2023-10-21,False
-135,Cliente 135,cliente135@exemplo.com,Cuiabá,2022-09-08,False
-274,Cliente 274,cliente274@exemplo.com,Cuiabá,2022-12-04,False
-389,Cliente 389,cliente389@exemplo.com,Cuiabá,2022-06-09,False
-455,Cliente 455,cliente455@exemplo.com,Cuiabá,2022-02-16,False
-370,Cliente 370,cliente370@exemplo.com,Cuiabá,2023-07-26,False
-422,Cliente 422,cliente422@exemplo.com,Cuiabá,2022-12-14,False
-322,Cliente 322,cliente322@exemplo.com,Cuiabá,2022-05-07,False
-320,Cliente 320,cliente320@exemplo.com,Cuiabá,2022-01-27,False
-279,Cliente 279,cliente279@exemplo.com,Cuiabá,2023-06-15,False
-182,Cliente 182,cliente182@exemplo.com,Cuiabá,2022-06-06,False
-515,Cliente 515,cliente515@exemplo.com,Cuiabá,2022-08-01,False
-266,Cliente 266,cliente266@exemplo.com,Cuiabá,2023-07-10,False
-158,Cliente 158,cliente158@exemplo.com,Cuiabá,2022-08-22,False
-601,Cliente 601,cliente601@exemplo.com,Cuiabá,2022-04-09,False
-134,Cliente 134,cliente134@exemplo.com,Cuiabá,2024-04-22,False
-945,Cliente 945,cliente945@exemplo.com,Cuiabá,2023-01-08,False
-618,Cliente 618,cliente618@exemplo.com,Cuiabá,2023-07-07,False
-356,Cliente 356,cliente356@exemplo.com,Cuiabá,2023-06-16,False
-642,Cliente 642,cliente642@exemplo.com,Cuiabá,2024-01-08,False
-960,Cliente 960,cliente960@exemplo.com,Cuiabá,2022-07-05,False
-235,Cliente 235,cliente235@exemplo.com,Cuiabá,2024-04-22,False
-92,Cliente 92,cliente92@exemplo.com,Cuiabá,2022-06-05,False
-337,Cliente 337,cliente337@exemplo.com,Cuiabá,2023-01-26,False
-234,Cliente 234,cliente234@exemplo.com,Cuiabá,2023-02-05,False
-206,Cliente 206,cliente206@exemplo.com,Cuiabá,2022-04-02,False
-97,Cliente 97,cliente97@exemplo.com,Cuiabá,2023-03-29,False
-892,Cliente 892,cliente892@exemplo.com,Cuiabá,2022-09-20,False
-68,Cliente 68,cliente68@exemplo.com,Cuiabá,2023-05-22,False
-458,Cliente 458,cliente458@exemplo.com,Cuiabá,2023-03-27,False
-695,Cliente 695,cliente695@exemplo.com,Cuiabá,2024-02-10,False
-214,Cliente 214,cliente214@exemplo.com,Cuiabá,2024-03-11,False
-339,Cliente 339,cliente339@exemplo.com,Cuiabá,2023-04-18,False
-493,Cliente 493,cliente493@exemplo.com,Cuiabá,2022-09-14,False
-36,Cliente 36,cliente36@exemplo.com,Cuiabá,2024-03-27,False
-81,Cliente 81,cliente81@exemplo.com,Cuiabá,2023-10-21,False
-919,Cliente 919,cliente919@exemplo.com,Cuiabá,2024-05-23,False
-646,Cliente 646,cliente646@exemplo.com,Cuiabá,2022-04-17,False
-473,Cliente 473,cliente473@exemplo.com,Cuiabá,2022-06-20,False
-882,Cliente 882,cliente882@exemplo.com,Cuiabá,2023-04-07,False
-449,Cliente 449,cliente449@exemplo.com,Cuiabá,2023-02-16,False
-157,Cliente 157,cliente157@exemplo.com,Cuiabá,2023-05-02,False
-390,Cliente 390,cliente390@exemplo.com,Cuiabá,2022-07-20,False
-296,Cliente 296,cliente296@exemplo.com,Cuiabá,2023-06-08,False
-109,Cliente 109,cliente109@exemplo.com,Cuiabá,2024-03-12,False
-8,Cliente 8,cliente8@exemplo.com,Cuiabá,2024-01-14,False
-933,Cliente 933,cliente933@exemplo.com,Cuiabá,2023-05-01,False
-237,Cliente 237,cliente237@exemplo.com,Cuiabá,2023-03-18,False
-152,Cliente 152,cliente152@exemplo.com,Cuiabá,2023-06-10,False
-896,Cliente 896,cliente896@exemplo.com,Cuiabá,2023-03-24,False
-345,Cliente 345,cliente345@exemplo.com,Cuiabá,2023-11-13,False
-633,Cliente 633,cliente633@exemplo.com,Cuiabá,2023-01-16,False
-649,Cliente 649,cliente649@exemplo.com,Cuiabá,2022-08-07,False
-181,Cliente 181,cliente181@exemplo.com,Cuiabá,2022-04-16,False
-961,Cliente 961,cliente961@exemplo.com,Cuiabá,2024-01-12,False
-507,Cliente 507,cliente507@exemplo.com,Cuiabá,2023-12-27,False
-939,Cliente 939,cliente939@exemplo.com,Cuiabá,2023-02-22,False
-989,Cliente 989,cliente989@exemplo.com,Cuiabá,2022-07-21,False
-836,Cliente 836,cliente836@exemplo.com,Cuiabá,2022-07-09,False
-10,Cliente 10,cliente10@exemplo.com,Cuiabá,2022-06-09,False
-107,Cliente 107,cliente107@exemplo.com,Cuiabá,2022-03-13,False
-424,Cliente 424,cliente424@exemplo.com,Cuiabá,2022-12-20,False
-216,Cliente 216,cliente216@exemplo.com,Cuiabá,2022-12-21,False
-516,Cliente 516,cliente516@exemplo.com,Cuiabá,2024-03-26,False
-874,Cliente 874,cliente874@exemplo.com,Cuiabá,2023-01-06,False
-584,Cliente 584,cliente584@exemplo.com,Cuiabá,2022-07-09,False
-363,Cliente 363,cliente363@exemplo.com,Cuiabá,2023-02-19,False
-763,Cliente 763,cliente763@exemplo.com,Cuiabá,2022-11-26,False
-718,Cliente 718,cliente718@exemplo.com,Cuiabá,2022-09-29,False
-265,Cliente 265,cliente265@exemplo.com,Cuiabá,2022-09-10,False
-172,Cliente 172,cliente172@exemplo.com,Cuiabá,2022-05-20,False
-127,Cliente 127,cliente127@exemplo.com,Cuiabá,2023-10-16,False
-413,Cliente 413,cliente413@exemplo.com,Cuiabá,2023-02-05,False
-852,Cliente 852,cliente852@exemplo.com,Cuiabá,2023-12-24,False
-106,Cliente 106,cliente106@exemplo.com,Cuiabá,2023-02-23,False
-241,Cliente 241,cliente241@exemplo.com,Cuiabá,2023-09-28,False
-428,Cliente 428,cliente428@exemplo.com,Cuiabá,2022-06-12,False
-976,Cliente 976,cliente976@exemplo.com,Cuiabá,2023-10-27,False
-943,Cliente 943,cliente943@exemplo.com,Cuiabá,2022-08-26,False
-15,Cliente 15,cliente15@exemplo.com,Cuiabá,2023-10-21,False
-831,Cliente 831,cliente831@exemplo.com,Cuiabá,2022-08-04,False
-218,Cliente 218,cliente218@exemplo.com,Cuiabá,2022-05-25,False
-810,Cliente 810,cliente810@exemplo.com,Cuiabá,2022-06-02,False
-797,Cliente 797,cliente797@exemplo.com,Cuiabá,2023-07-11,False
-881,Cliente 881,cliente881@exemplo.com,Cuiabá,2022-03-07,False
-905,Cliente 905,cliente905@exemplo.com,Cuiabá,2022-07-25,False
-143,Cliente 143,cliente143@exemplo.com,Cuiabá,2022-04-16,False
-643,Cliente 643,cliente643@exemplo.com,Cuiabá,2022-05-31,False
-17,Cliente 17,cliente17@exemplo.com,Cuiabá,2022-01-11,False
-329,Cliente 329,cliente329@exemplo.com,Cuiabá,2023-08-02,False
-826,Cliente 826,cliente826@exemplo.com,Cuiabá,2022-04-15,False
-625,Cliente 625,cliente625@exemplo.com,Curitiba,2024-02-06,False
-325,Cliente 325,cliente325@exemplo.com,Curitiba,2022-03-12,False
-786,Cliente 786,cliente786@exemplo.com,Curitiba,2024-04-17,False
-735,Cliente 735,cliente735@exemplo.com,Curitiba,2022-07-30,False
-497,Cliente 497,cliente497@exemplo.com,Curitiba,2022-11-22,False
-82,Cliente 82,cliente82@exemplo.com,Curitiba,2022-12-30,False
-395,Cliente 395,cliente395@exemplo.com,Curitiba,2022-05-23,False
-423,Cliente 423,cliente423@exemplo.com,Curitiba,2023-03-28,False
-629,Cliente 629,cliente629@exemplo.com,Curitiba,2022-06-03,False
-785,Cliente 785,cliente785@exemplo.com,Curitiba,2023-10-14,False
-805,Cliente 805,cliente805@exemplo.com,Curitiba,2022-03-03,False
-607,Cliente 607,cliente607@exemplo.com,Curitiba,2023-03-23,False
-411,Cliente 411,cliente411@exemplo.com,Curitiba,2023-06-22,False
-3,Cliente 3,cliente3@exemplo.com,Curitiba,2023-03-15,False
-470,Cliente 470,cliente470@exemplo.com,Curitiba,2023-06-19,False
-809,Cliente 809,cliente809@exemplo.com,Curitiba,2022-02-11,False
-393,Cliente 393,cliente393@exemplo.com,Curitiba,2024-04-14,False
-344,Cliente 344,cliente344@exemplo.com,Curitiba,2022-04-27,False
-696,Cliente 696,cliente696@exemplo.com,Curitiba,2022-02-06,False
-929,Cliente 929,cliente929@exemplo.com,Curitiba,2023-07-31,False
-57,Cliente 57,cliente57@exemplo.com,Curitiba,2024-01-28,False
-758,Cliente 758,cliente758@exemplo.com,Curitiba,2023-06-12,False
-297,Cliente 297,cliente297@exemplo.com,Curitiba,2023-04-15,False
-148,Cliente 148,cliente148@exemplo.com,Curitiba,2022-10-11,False
-437,Cliente 437,cliente437@exemplo.com,Curitiba,2022-04-19,False
-288,Cliente 288,cliente288@exemplo.com,Curitiba,2022-04-16,False
-31,Cliente 31,cliente31@exemplo.com,Curitiba,2022-02-03,False
-37,Cliente 37,cliente37@exemplo.com,Curitiba,2023-11-16,False
-710,Cliente 710,cliente710@exemplo.com,Curitiba,2023-10-08,False
-590,Cliente 590,cliente590@exemplo.com,Curitiba,2022-09-12,False
-761,Cliente 761,cliente761@exemplo.com,Curitiba,2022-05-01,False
-338,Cliente 338,cliente338@exemplo.com,Curitiba,2023-11-24,False
-425,Cliente 425,cliente425@exemplo.com,Curitiba,2023-01-08,False
-207,Cliente 207,cliente207@exemplo.com,Curitiba,2024-05-29,False
-944,Cliente 944,cliente944@exemplo.com,Curitiba,2022-02-16,False
 1,Cliente 1,cliente1@exemplo.com,Curitiba,2023-02-02,False
-7,Cliente 7,cliente7@exemplo.com,Curitiba,2023-11-10,False
-776,Cliente 776,cliente776@exemplo.com,Curitiba,2022-08-22,False
-290,Cliente 290,cliente290@exemplo.com,Curitiba,2022-12-04,False
-535,Cliente 535,cliente535@exemplo.com,Curitiba,2024-04-26,False
-704,Cliente 704,cliente704@exemplo.com,Curitiba,2023-11-16,False
-529,Cliente 529,cliente529@exemplo.com,Curitiba,2024-05-23,False
-166,Cliente 166,cliente166@exemplo.com,Curitiba,2023-04-29,False
-23,Cliente 23,cliente23@exemplo.com,Curitiba,2023-06-28,False
-132,Cliente 132,cliente132@exemplo.com,Curitiba,2023-03-13,False
-728,Cliente 728,cliente728@exemplo.com,Curitiba,2023-09-03,False
-272,Cliente 272,cliente272@exemplo.com,Curitiba,2024-06-16,False
-661,Cliente 661,cliente661@exemplo.com,Curitiba,2022-10-20,False
-252,Cliente 252,cliente252@exemplo.com,Curitiba,2022-06-04,False
-741,Cliente 741,cliente741@exemplo.com,Curitiba,2022-07-15,False
-956,Cliente 956,cliente956@exemplo.com,Curitiba,2022-01-02,False
-32,Cliente 32,cliente32@exemplo.com,Curitiba,2022-07-11,False
-878,Cliente 878,cliente878@exemplo.com,Curitiba,2024-01-31,False
-49,Cliente 49,cliente49@exemplo.com,Curitiba,2022-06-17,False
-914,Cliente 914,cliente914@exemplo.com,Curitiba,2022-03-21,False
-650,Cliente 650,cliente650@exemplo.com,Curitiba,2023-07-29,False
-268,Cliente 268,cliente268@exemplo.com,Curitiba,2022-07-08,False
-248,Cliente 248,cliente248@exemplo.com,Curitiba,2022-05-28,False
-888,Cliente 888,cliente888@exemplo.com,Curitiba,2023-08-29,False
-978,Cliente 978,cliente978@exemplo.com,Curitiba,2022-03-23,False
-293,Cliente 293,cliente293@exemplo.com,Curitiba,2022-03-14,False
-130,Cliente 130,cliente130@exemplo.com,Curitiba,2023-12-25,False
-706,Cliente 706,cliente706@exemplo.com,Curitiba,2023-10-14,False
-196,Cliente 196,cliente196@exemplo.com,Curitiba,2022-07-11,False
-147,Cliente 147,cliente147@exemplo.com,Curitiba,2022-11-24,False
-466,Cliente 466,cliente466@exemplo.com,Curitiba,2022-03-15,False
-323,Cliente 323,cliente323@exemplo.com,Curitiba,2024-02-09,False
-73,Cliente 73,cliente73@exemplo.com,Curitiba,2023-06-26,False
-552,Cliente 552,cliente552@exemplo.com,Curitiba,2023-07-07,False
-640,Cliente 640,cliente640@exemplo.com,Curitiba,2022-03-13,False
-348,Cliente 348,cliente348@exemplo.com,Curitiba,2022-12-10,False
-664,Cliente 664,cliente664@exemplo.com,Curitiba,2023-11-16,False
-35,Cliente 35,cliente35@exemplo.com,Curitiba,2024-03-08,False
-898,Cliente 898,cliente898@exemplo.com,Curitiba,2022-10-17,False
-98,Cliente 98,cliente98@exemplo.com,Curitiba,2023-05-05,False
-171,Cliente 171,cliente171@exemplo.com,Curitiba,2023-08-21,False
-412,Cliente 412,cliente412@exemplo.com,Curitiba,2023-11-27,False
-99,Cliente 99,cliente99@exemplo.com,Curitiba,2022-04-04,False
-244,Cliente 244,cliente244@exemplo.com,Curitiba,2023-03-20,False
 2,Cliente 2,cliente2@exemplo.com,Curitiba,2022-10-24,False
-935,Cliente 935,cliente935@exemplo.com,Curitiba,2022-03-18,False
-846,Cliente 846,cliente846@exemplo.com,Curitiba,2022-10-08,False
-342,Cliente 342,cliente342@exemplo.com,Curitiba,2023-01-09,False
-563,Cliente 563,cliente563@exemplo.com,Curitiba,2022-05-10,False
-645,Cliente 645,cliente645@exemplo.com,Curitiba,2024-03-19,False
-138,Cliente 138,cliente138@exemplo.com,Curitiba,2022-12-22,False
-932,Cliente 932,cliente932@exemplo.com,Curitiba,2022-01-14,False
-306,Cliente 306,cliente306@exemplo.com,Curitiba,2023-08-22,False
-351,Cliente 351,cliente351@exemplo.com,Curitiba,2023-06-15,False
-446,Cliente 446,cliente446@exemplo.com,Curitiba,2023-02-28,False
-821,Cliente 821,cliente821@exemplo.com,Curitiba,2024-02-06,False
-496,Cliente 496,cliente496@exemplo.com,Curitiba,2024-02-15,False
-737,Cliente 737,cliente737@exemplo.com,Curitiba,2023-05-14,False
-510,Cliente 510,cliente510@exemplo.com,Curitiba,2023-11-21,False
-565,Cliente 565,cliente565@exemplo.com,Curitiba,2022-10-23,False
-178,Cliente 178,cliente178@exemplo.com,Curitiba,2023-04-29,False
-359,Cliente 359,cliente359@exemplo.com,Curitiba,2023-07-20,False
-679,Cliente 679,cliente679@exemplo.com,Curitiba,2023-07-01,False
-736,Cliente 736,cliente736@exemplo.com,Curitiba,2023-09-02,False
-63,Cliente 63,cliente63@exemplo.com,Curitiba,2024-01-21,False
-859,Cliente 859,cliente859@exemplo.com,Curitiba,2024-03-29,False
-18,Cliente 18,cliente18@exemplo.com,Curitiba,2023-11-23,False
-822,Cliente 822,cliente822@exemplo.com,Curitiba,2022-09-22,False
-743,Cliente 743,cliente743@exemplo.com,Curitiba,2023-03-22,False
-855,Cliente 855,cliente855@exemplo.com,Curitiba,2023-09-13,False
-560,Cliente 560,cliente560@exemplo.com,Curitiba,2023-02-16,False
-292,Cliente 292,cliente292@exemplo.com,Curitiba,2022-12-03,False
-240,Cliente 240,cliente240@exemplo.com,Curitiba,2022-05-09,False
-358,Cliente 358,cliente358@exemplo.com,Curitiba,2023-11-27,False
-502,Cliente 502,cliente502@exemplo.com,Curitiba,2023-03-07,False
-384,Cliente 384,cliente384@exemplo.com,Curitiba,2023-08-08,False
-833,Cliente 833,cliente833@exemplo.com,Curitiba,2023-05-05,False
-759,Cliente 759,cliente759@exemplo.com,Curitiba,2022-11-20,False
-226,Cliente 226,cliente226@exemplo.com,Curitiba,2022-07-29,False
-897,Cliente 897,cliente897@exemplo.com,Curitiba,2023-04-23,False
-659,Cliente 659,cliente659@exemplo.com,Curitiba,2023-10-31,False
-481,Cliente 481,cliente481@exemplo.com,Curitiba,2023-07-27,False
-112,Cliente 112,cliente112@exemplo.com,Curitiba,2023-09-24,False
-263,Cliente 263,cliente263@exemplo.com,Curitiba,2022-04-09,False
-316,Cliente 316,cliente316@exemplo.com,Curitiba,2024-01-29,False
-752,Cliente 752,cliente752@exemplo.com,Curitiba,2022-03-02,False
-45,Cliente 45,cliente45@exemplo.com,Curitiba,2022-09-29,False
-848,Cliente 848,cliente848@exemplo.com,Curitiba,2022-08-21,False
-867,Cliente 867,cliente867@exemplo.com,Curitiba,2023-05-10,False
-367,Cliente 367,cliente367@exemplo.com,Curitiba,2022-02-28,False
-56,Cliente 56,cliente56@exemplo.com,Curitiba,2023-07-15,False
-572,Cliente 572,cliente572@exemplo.com,Curitiba,2022-09-11,False
-212,Cliente 212,cliente212@exemplo.com,Curitiba,2023-02-22,False
-179,Cliente 179,cliente179@exemplo.com,Curitiba,2024-04-17,False
-156,Cliente 156,cliente156@exemplo.com,Curitiba,2024-01-22,False
-223,Cliente 223,cliente223@exemplo.com,Curitiba,2023-06-02,False
-636,Cliente 636,cliente636@exemplo.com,Curitiba,2022-11-25,False
-938,Cliente 938,cliente938@exemplo.com,Curitiba,2024-04-25,False
-454,Cliente 454,cliente454@exemplo.com,Curitiba,2022-12-24,False
-820,Cliente 820,cliente820@exemplo.com,Curitiba,2023-12-27,False
-788,Cliente 788,cliente788@exemplo.com,Curitiba,2022-12-31,False
-364,Cliente 364,cliente364@exemplo.com,Curitiba,2022-02-14,False
-597,Cliente 597,cliente597@exemplo.com,Curitiba,2022-03-05,False
-585,Cliente 585,cliente585@exemplo.com,Curitiba,2022-10-03,False
-479,Cliente 479,cliente479@exemplo.com,Curitiba,2022-08-08,False
-849,Cliente 849,cliente849@exemplo.com,Curitiba,2022-01-03,False
-416,Cliente 416,cliente416@exemplo.com,Curitiba,2023-07-21,False
-448,Cliente 448,cliente448@exemplo.com,Curitiba,2023-03-17,False
-683,Cliente 683,cliente683@exemplo.com,Curitiba,2023-04-28,False
-43,Cliente 43,cliente43@exemplo.com,Curitiba,2022-07-03,False
-903,Cliente 903,cliente903@exemplo.com,Curitiba,2023-08-04,False
-29,Cliente 29,cliente29@exemplo.com,Curitiba,2024-01-17,False
-69,Cliente 69,cliente69@exemplo.com,Curitiba,2023-03-04,False
-523,Cliente 523,cliente523@exemplo.com,Curitiba,2023-08-21,False
-671,Cliente 671,cliente671@exemplo.com,Curitiba,2022-03-24,False
-622,Cliente 622,cliente622@exemplo.com,Curitiba,2024-04-06,False
-95,Cliente 95,cliente95@exemplo.com,Curitiba,2022-02-22,False
-426,Cliente 426,cliente426@exemplo.com,Curitiba,2022-03-28,False
-334,Cliente 334,cliente334@exemplo.com,Curitiba,2023-12-08,False
-9,Cliente 9,cliente9@exemplo.com,Curitiba,2023-10-07,False
-835,Cliente 835,cliente835@exemplo.com,Curitiba,2023-08-08,False
-587,Cliente 587,cliente587@exemplo.com,Curitiba,2022-04-24,False
-719,Cliente 719,cliente719@exemplo.com,Curitiba,2022-10-13,False
-489,Cliente 489,cliente489@exemplo.com,Curitiba,2024-06-01,False
-699,Cliente 699,cliente699@exemplo.com,Curitiba,2023-12-17,False
-829,Cliente 829,cliente829@exemplo.com,Curitiba,2022-05-29,False
-303,Cliente 303,cliente303@exemplo.com,Curitiba,2024-02-08,False
-995,Cliente 995,cliente995@exemplo.com,Curitiba,2023-12-28,False
-355,Cliente 355,cliente355@exemplo.com,Curitiba,2023-10-10,False
-774,Cliente 774,cliente774@exemplo.com,Curitiba,2023-05-29,False
-757,Cliente 757,cliente757@exemplo.com,Curitiba,2022-07-20,False
-665,Cliente 665,cliente665@exemplo.com,Curitiba,2023-09-06,False
-51,Cliente 51,cliente51@exemplo.com,Curitiba,2023-04-18,False
-628,Cliente 628,cliente628@exemplo.com,Curitiba,2023-10-07,False
-205,Cliente 205,cliente205@exemplo.com,Curitiba,2022-07-10,False
-623,Cliente 623,cliente623@exemplo.com,Curitiba,2022-10-15,False
-401,Cliente 401,cliente401@exemplo.com,Curitiba,2022-06-28,False
-754,Cliente 754,cliente754@exemplo.com,Curitiba,2022-09-20,False
-795,Cliente 795,cliente795@exemplo.com,Curitiba,2022-07-04,False
-136,Cliente 136,cliente136@exemplo.com,Curitiba,2022-04-06,False
-660,Cliente 660,cliente660@exemplo.com,Curitiba,2022-03-21,False
-238,Cliente 238,cliente238@exemplo.com,Curitiba,2024-03-30,False
-825,Cliente 825,cliente825@exemplo.com,Curitiba,2023-07-08,False
-474,Cliente 474,cliente474@exemplo.com,Curitiba,2022-12-11,False
-925,Cliente 925,cliente925@exemplo.com,Curitiba,2022-08-27,False
-399,Cliente 399,cliente399@exemplo.com,Curitiba,2023-08-29,False
-638,Cliente 638,cliente638@exemplo.com,Curitiba,2023-03-09,False
-850,Cliente 850,cliente850@exemplo.com,Curitiba,2023-07-17,False
-770,Cliente 770,cliente770@exemplo.com,Curitiba,2022-06-12,False
-376,Cliente 376,cliente376@exemplo.com,Curitiba,2022-11-28,False
-904,Cliente 904,cliente904@exemplo.com,Curitiba,2022-04-02,False
-54,Cliente 54,cliente54@exemplo.com,Curitiba,2022-11-22,False
-894,Cliente 894,cliente894@exemplo.com,Curitiba,2023-05-22,False
-979,Cliente 979,cliente979@exemplo.com,Curitiba,2022-08-23,False
-595,Cliente 595,cliente595@exemplo.com,Curitiba,2023-07-28,False
-798,Cliente 798,cliente798@exemplo.com,Manaus,2023-01-09,False
-140,Cliente 140,cliente140@exemplo.com,Manaus,2024-01-04,False
-498,Cliente 498,cliente498@exemplo.com,Manaus,2022-05-15,False
-39,Cliente 39,cliente39@exemplo.com,Manaus,2022-01-04,False
-819,Cliente 819,cliente819@exemplo.com,Manaus,2022-06-17,False
-463,Cliente 463,cliente463@exemplo.com,Manaus,2022-06-27,False
-236,Cliente 236,cliente236@exemplo.com,Manaus,2022-07-25,False
-669,Cliente 669,cliente669@exemplo.com,Manaus,2022-04-22,False
-326,Cliente 326,cliente326@exemplo.com,Manaus,2022-06-11,False
-921,Cliente 921,cliente921@exemplo.com,Manaus,2023-02-14,False
-928,Cliente 928,cliente928@exemplo.com,Manaus,2024-02-07,False
-231,Cliente 231,cliente231@exemplo.com,Manaus,2023-08-24,False
-459,Cliente 459,cliente459@exemplo.com,Manaus,2024-01-09,False
-620,Cliente 620,cliente620@exemplo.com,Manaus,2024-03-19,False
-243,Cliente 243,cliente243@exemplo.com,Manaus,2022-12-21,False
-24,Cliente 24,cliente24@exemplo.com,Manaus,2022-04-13,False
-548,Cliente 548,cliente548@exemplo.com,Manaus,2023-08-06,False
-771,Cliente 771,cliente771@exemplo.com,Manaus,2023-12-29,False
-47,Cliente 47,cliente47@exemplo.com,Manaus,2024-01-14,False
-89,Cliente 89,cliente89@exemplo.com,Manaus,2024-02-04,False
-291,Cliente 291,cliente291@exemplo.com,Manaus,2022-04-01,False
-604,Cliente 604,cliente604@exemplo.com,Manaus,2023-05-12,False
-28,Cliente 28,cliente28@exemplo.com,Manaus,2022-02-24,False
-610,Cliente 610,cliente610@exemplo.com,Manaus,2023-11-18,False
-492,Cliente 492,cliente492@exemplo.com,Manaus,2023-02-08,False
-191,Cliente 191,cliente191@exemplo.com,Manaus,2022-07-09,False
-578,Cliente 578,cliente578@exemplo.com,Manaus,2024-06-02,False
-530,Cliente 530,cliente530@exemplo.com,Manaus,2024-04-10,False
-799,Cliente 799,cliente799@exemplo.com,Manaus,2022-01-25,False
-998,Cliente 998,cliente998@exemplo.com,Manaus,2023-02-21,False
-697,Cliente 697,cliente697@exemplo.com,Manaus,2022-09-22,False
-177,Cliente 177,cliente177@exemplo.com,Manaus,2023-07-11,False
-911,Cliente 911,cliente911@exemplo.com,Manaus,2023-11-24,False
-845,Cliente 845,cliente845@exemplo.com,Manaus,2023-01-12,False
-294,Cliente 294,cliente294@exemplo.com,Manaus,2023-11-08,False
-814,Cliente 814,cliente814@exemplo.com,Manaus,2022-06-21,False
-681,Cliente 681,cliente681@exemplo.com,Manaus,2022-05-13,False
-50,Cliente 50,cliente50@exemplo.com,Manaus,2023-04-23,False
-562,Cliente 562,cliente562@exemplo.com,Manaus,2022-02-24,False
-162,Cliente 162,cliente162@exemplo.com,Manaus,2023-06-03,False
-851,Cliente 851,cliente851@exemplo.com,Manaus,2023-12-11,False
-19,Cliente 19,cliente19@exemplo.com,Manaus,2022-05-18,False
-444,Cliente 444,cliente444@exemplo.com,Manaus,2023-02-08,False
-357,Cliente 357,cliente357@exemplo.com,Manaus,2023-06-04,False
-434,Cliente 434,cliente434@exemplo.com,Manaus,2023-06-07,False
-71,Cliente 71,cliente71@exemplo.com,Manaus,2022-11-23,False
-198,Cliente 198,cliente198@exemplo.com,Manaus,2022-02-14,False
-116,Cliente 116,cliente116@exemplo.com,Manaus,2022-03-15,False
-684,Cliente 684,cliente684@exemplo.com,Manaus,2022-06-22,False
-432,Cliente 432,cliente432@exemplo.com,Manaus,2023-10-20,False
-942,Cliente 942,cliente942@exemplo.com,Manaus,2023-11-24,False
-678,Cliente 678,cliente678@exemplo.com,Manaus,2023-01-30,False
-465,Cliente 465,cliente465@exemplo.com,Manaus,2023-05-09,False
-667,Cliente 667,cliente667@exemplo.com,Manaus,2022-06-28,False
-309,Cliente 309,cliente309@exemplo.com,Manaus,2022-11-28,False
-887,Cliente 887,cliente887@exemplo.com,Manaus,2022-02-08,False
-312,Cliente 312,cliente312@exemplo.com,Manaus,2024-02-18,False
-909,Cliente 909,cliente909@exemplo.com,Manaus,2023-06-05,False
-613,Cliente 613,cliente613@exemplo.com,Manaus,2023-01-17,False
-634,Cliente 634,cliente634@exemplo.com,Manaus,2024-05-07,False
-402,Cliente 402,cliente402@exemplo.com,Manaus,2024-01-27,False
-571,Cliente 571,cliente571@exemplo.com,Manaus,2023-07-12,False
-53,Cliente 53,cliente53@exemplo.com,Manaus,2024-04-17,False
-917,Cliente 917,cliente917@exemplo.com,Manaus,2023-10-23,False
-616,Cliente 616,cliente616@exemplo.com,Manaus,2022-02-26,False
-609,Cliente 609,cliente609@exemplo.com,Manaus,2022-10-16,False
-843,Cliente 843,cliente843@exemplo.com,Manaus,2023-11-01,False
-346,Cliente 346,cliente346@exemplo.com,Manaus,2022-10-10,False
-452,Cliente 452,cliente452@exemplo.com,Manaus,2022-07-18,False
-689,Cliente 689,cliente689@exemplo.com,Manaus,2022-04-24,False
-680,Cliente 680,cliente680@exemplo.com,Manaus,2022-12-18,False
-70,Cliente 70,cliente70@exemplo.com,Manaus,2022-08-26,False
-726,Cliente 726,cliente726@exemplo.com,Manaus,2023-05-28,False
-282,Cliente 282,cliente282@exemplo.com,Manaus,2022-03-29,False
-419,Cliente 419,cliente419@exemplo.com,Manaus,2022-06-18,False
-526,Cliente 526,cliente526@exemplo.com,Manaus,2023-11-25,False
-531,Cliente 531,cliente531@exemplo.com,Manaus,2022-09-05,False
-775,Cliente 775,cliente775@exemplo.com,Manaus,2022-04-30,False
-472,Cliente 472,cliente472@exemplo.com,Manaus,2023-07-05,False
-877,Cliente 877,cliente877@exemplo.com,Manaus,2022-12-23,False
-589,Cliente 589,cliente589@exemplo.com,Manaus,2024-02-11,False
-984,Cliente 984,cliente984@exemplo.com,Manaus,2023-12-19,False
-335,Cliente 335,cliente335@exemplo.com,Manaus,2022-12-01,False
-662,Cliente 662,cliente662@exemplo.com,Manaus,2024-02-01,False
-151,Cliente 151,cliente151@exemplo.com,Manaus,2023-10-14,False
-285,Cliente 285,cliente285@exemplo.com,Manaus,2023-01-17,False
-409,Cliente 409,cliente409@exemplo.com,Manaus,2024-02-23,False
-725,Cliente 725,cliente725@exemplo.com,Manaus,2022-08-06,False
-417,Cliente 417,cliente417@exemplo.com,Manaus,2023-02-11,False
-280,Cliente 280,cliente280@exemplo.com,Manaus,2023-08-16,False
-509,Cliente 509,cliente509@exemplo.com,Manaus,2022-03-10,False
-550,Cliente 550,cliente550@exemplo.com,Manaus,2024-04-27,False
-259,Cliente 259,cliente259@exemplo.com,Manaus,2023-07-22,False
-801,Cliente 801,cliente801@exemplo.com,Manaus,2022-01-20,False
-807,Cliente 807,cliente807@exemplo.com,Manaus,2022-09-25,False
-219,Cliente 219,cliente219@exemplo.com,Manaus,2023-10-13,False
-122,Cliente 122,cliente122@exemplo.com,Manaus,2023-10-29,False
-52,Cliente 52,cliente52@exemplo.com,Manaus,2023-08-04,False
-963,Cliente 963,cliente963@exemplo.com,Manaus,2024-02-23,False
-731,Cliente 731,cliente731@exemplo.com,Manaus,2022-03-19,False
-40,Cliente 40,cliente40@exemplo.com,Manaus,2024-02-21,False
-641,Cliente 641,cliente641@exemplo.com,Manaus,2023-06-20,False
-232,Cliente 232,cliente232@exemplo.com,Manaus,2024-01-28,False
-391,Cliente 391,cliente391@exemplo.com,Manaus,2022-03-14,False
-421,Cliente 421,cliente421@exemplo.com,Manaus,2023-04-26,False
-375,Cliente 375,cliente375@exemplo.com,Manaus,2022-08-12,False
-626,Cliente 626,cliente626@exemplo.com,Manaus,2022-06-01,False
-242,Cliente 242,cliente242@exemplo.com,Manaus,2023-01-04,False
-721,Cliente 721,cliente721@exemplo.com,Manaus,2024-04-07,False
-67,Cliente 67,cliente67@exemplo.com,Manaus,2024-05-29,False
-858,Cliente 858,cliente858@exemplo.com,Manaus,2022-04-18,False
-388,Cliente 388,cliente388@exemplo.com,Manaus,2023-09-16,False
-488,Cliente 488,cliente488@exemplo.com,Manaus,2023-10-15,False
-962,Cliente 962,cliente962@exemplo.com,Manaus,2022-04-18,False
-321,Cliente 321,cliente321@exemplo.com,Manaus,2024-02-06,False
-703,Cliente 703,cliente703@exemplo.com,Manaus,2022-03-16,False
-940,Cliente 940,cliente940@exemplo.com,Manaus,2024-03-15,False
-753,Cliente 753,cliente753@exemplo.com,Manaus,2023-01-07,False
-534,Cliente 534,cliente534@exemplo.com,Manaus,2022-01-22,False
-168,Cliente 168,cliente168@exemplo.com,Manaus,2022-09-22,False
-559,Cliente 559,cliente559@exemplo.com,Manaus,2023-09-11,False
-862,Cliente 862,cliente862@exemplo.com,Manaus,2022-08-17,False
-249,Cliente 249,cliente249@exemplo.com,Manaus,2022-09-22,False
-340,Cliente 340,cliente340@exemplo.com,Manaus,2023-01-12,False
-800,Cliente 800,cliente800@exemplo.com,Manaus,2024-04-10,False
-777,Cliente 777,cliente777@exemplo.com,Manaus,2023-03-21,False
-378,Cliente 378,cliente378@exemplo.com,Manaus,2022-06-05,False
-118,Cliente 118,cliente118@exemplo.com,Manaus,2022-03-07,False
-313,Cliente 313,cliente313@exemplo.com,Manaus,2022-04-04,False
-906,Cliente 906,cliente906@exemplo.com,Manaus,2022-09-10,False
-949,Cliente 949,cliente949@exemplo.com,Manaus,2022-11-29,False
-950,Cliente 950,cliente950@exemplo.com,Manaus,2022-05-03,False
-199,Cliente 199,cliente199@exemplo.com,Manaus,2022-10-25,False
-299,Cliente 299,cliente299@exemplo.com,Manaus,2022-09-29,False
-11,Cliente 11,cliente11@exemplo.com,Manaus,2024-01-12,False
-856,Cliente 856,cliente856@exemplo.com,Manaus,2023-07-04,False
-230,Cliente 230,cliente230@exemplo.com,Manaus,2023-03-03,False
-614,Cliente 614,cliente614@exemplo.com,Manaus,2023-05-16,False
-790,Cliente 790,cliente790@exemplo.com,Manaus,2022-04-18,False
-968,Cliente 968,cliente968@exemplo.com,Manaus,2023-11-05,False
-105,Cliente 105,cliente105@exemplo.com,Manaus,2022-11-28,False
-612,Cliente 612,cliente612@exemplo.com,Manaus,2024-05-03,False
-532,Cliente 532,cliente532@exemplo.com,Manaus,2023-03-20,False
-91,Cliente 91,cliente91@exemplo.com,Manaus,2022-12-22,False
-42,Cliente 42,cliente42@exemplo.com,Manaus,2023-07-27,False
-999,Cliente 999,cliente999@exemplo.com,Manaus,2024-03-20,False
-310,Cliente 310,cliente310@exemplo.com,Manaus,2023-09-09,False
-893,Cliente 893,cliente893@exemplo.com,Manaus,2023-09-09,False
-783,Cliente 783,cliente783@exemplo.com,Manaus,2022-11-18,False
-201,Cliente 201,cliente201@exemplo.com,Manaus,2024-04-20,False
-405,Cliente 405,cliente405@exemplo.com,Manaus,2022-03-18,False
-159,Cliente 159,cliente159@exemplo.com,Manaus,2024-03-16,False
-347,Cliente 347,cliente347@exemplo.com,Manaus,2023-08-25,False
-164,Cliente 164,cliente164@exemplo.com,Manaus,2022-08-18,False
-708,Cliente 708,cliente708@exemplo.com,Manaus,2023-06-11,False
-991,Cliente 991,cliente991@exemplo.com,Manaus,2023-03-12,False
-615,Cliente 615,cliente615@exemplo.com,Manaus,2024-01-31,False
-440,Cliente 440,cliente440@exemplo.com,Manaus,2022-01-11,False
-284,Cliente 284,cliente284@exemplo.com,Manaus,2024-01-01,False
-672,Cliente 672,cliente672@exemplo.com,Manaus,2024-03-24,False
-716,Cliente 716,cliente716@exemplo.com,Manaus,2023-02-22,False
+3,Cliente 3,cliente3@exemplo.com,Curitiba,2023-03-15,False
 4,Cliente 4,cliente4@exemplo.com,Manaus,2024-04-27,False
-396,Cliente 396,cliente396@exemplo.com,Manaus,2023-02-23,False
-975,Cliente 975,cliente975@exemplo.com,Manaus,2023-11-07,False
-591,Cliente 591,cliente591@exemplo.com,Manaus,2022-12-20,False
-46,Cliente 46,cliente46@exemplo.com,Manaus,2022-06-17,False
-709,Cliente 709,cliente709@exemplo.com,Manaus,2022-01-22,False
-250,Cliente 250,cliente250@exemplo.com,Manaus,2022-06-06,False
-176,Cliente 176,cliente176@exemplo.com,Manaus,2022-11-25,False
-480,Cliente 480,cliente480@exemplo.com,Manaus,2023-02-25,False
-153,Cliente 153,cliente153@exemplo.com,Manaus,2023-11-04,False
-742,Cliente 742,cliente742@exemplo.com,Manaus,2023-10-04,False
-333,Cliente 333,cliente333@exemplo.com,Manaus,2024-05-05,False
-114,Cliente 114,cliente114@exemplo.com,Manaus,2023-05-26,False
-580,Cliente 580,cliente580@exemplo.com,Manaus,2022-07-06,False
-123,Cliente 123,cliente123@exemplo.com,Manaus,2022-07-08,False
-447,Cliente 447,cliente447@exemplo.com,Manaus,2022-07-26,False
-494,Cliente 494,cliente494@exemplo.com,Manaus,2024-04-29,False
-792,Cliente 792,cliente792@exemplo.com,Manaus,2022-11-03,False
-885,Cliente 885,cliente885@exemplo.com,Manaus,2023-02-27,False
-25,Cliente 25,cliente25@exemplo.com,Manaus,2022-01-10,False
-86,Cliente 86,cliente86@exemplo.com,Manaus,2022-08-24,False
-14,Cliente 14,cliente14@exemplo.com,Manaus,2022-05-30,False
-213,Cliente 213,cliente213@exemplo.com,Manaus,2024-03-29,False
-575,Cliente 575,cliente575@exemplo.com,Manaus,2024-05-18,False
-343,Cliente 343,cliente343@exemplo.com,Manaus,2022-03-14,False
-668,Cliente 668,cliente668@exemplo.com,Manaus,2023-12-07,False
-460,Cliente 460,cliente460@exemplo.com,Manaus,2022-10-31,False
-789,Cliente 789,cliente789@exemplo.com,Manaus,2023-10-21,False
-319,Cliente 319,cliente319@exemplo.com,Manaus,2024-03-17,False
-129,Cliente 129,cliente129@exemplo.com,Manaus,2022-04-07,False
-547,Cliente 547,cliente547@exemplo.com,Manaus,2024-01-04,False
-803,Cliente 803,cliente803@exemplo.com,Manaus,2023-03-01,False
-631,Cliente 631,cliente631@exemplo.com,Manaus,2022-08-24,False
-215,Cliente 215,cliente215@exemplo.com,Manaus,2022-10-29,False
-908,Cliente 908,cliente908@exemplo.com,Manaus,2022-09-15,False
-994,Cliente 994,cliente994@exemplo.com,Manaus,2022-09-04,False
-163,Cliente 163,cliente163@exemplo.com,Manaus,2022-05-29,False
-702,Cliente 702,cliente702@exemplo.com,Manaus,2022-09-06,False
-941,Cliente 941,cliente941@exemplo.com,Manaus,2023-12-24,False
-366,Cliente 366,cliente366@exemplo.com,Manaus,2022-02-23,False
-128,Cliente 128,cliente128@exemplo.com,Manaus,2022-09-17,False
-102,Cliente 102,cliente102@exemplo.com,Manaus,2022-06-27,False
-657,Cliente 657,cliente657@exemplo.com,Recife,2023-09-09,False
-74,Cliente 74,cliente74@exemplo.com,Recife,2023-08-10,False
-165,Cliente 165,cliente165@exemplo.com,Recife,2023-03-12,False
-484,Cliente 484,cliente484@exemplo.com,Recife,2023-10-30,False
-871,Cliente 871,cliente871@exemplo.com,Recife,2022-04-28,False
-794,Cliente 794,cliente794@exemplo.com,Recife,2024-05-29,False
-48,Cliente 48,cliente48@exemplo.com,Recife,2022-11-03,False
-967,Cliente 967,cliente967@exemplo.com,Recife,2023-09-13,False
-228,Cliente 228,cliente228@exemplo.com,Recife,2023-03-15,False
-895,Cliente 895,cliente895@exemplo.com,Recife,2023-03-18,False
-915,Cliente 915,cliente915@exemplo.com,Recife,2022-01-23,False
-533,Cliente 533,cliente533@exemplo.com,Recife,2022-09-06,False
-670,Cliente 670,cliente670@exemplo.com,Recife,2023-02-04,False
-499,Cliente 499,cliente499@exemplo.com,Recife,2023-08-10,False
-663,Cliente 663,cliente663@exemplo.com,Recife,2022-04-04,False
-907,Cliente 907,cliente907@exemplo.com,Recife,2022-07-26,False
-485,Cliente 485,cliente485@exemplo.com,Recife,2023-12-17,False
-382,Cliente 382,cliente382@exemplo.com,Recife,2022-12-20,False
-972,Cliente 972,cliente972@exemplo.com,Recife,2023-03-22,False
-208,Cliente 208,cliente208@exemplo.com,Recife,2024-04-06,False
-483,Cliente 483,cliente483@exemplo.com,Recife,2024-04-19,False
-823,Cliente 823,cliente823@exemplo.com,Recife,2024-03-22,False
-12,Cliente 12,cliente12@exemplo.com,Recife,2023-05-31,False
-656,Cliente 656,cliente656@exemplo.com,Recife,2023-02-13,False
-860,Cliente 860,cliente860@exemplo.com,Recife,2023-03-28,False
-85,Cliente 85,cliente85@exemplo.com,Recife,2022-08-25,False
-966,Cliente 966,cliente966@exemplo.com,Recife,2022-03-13,False
-256,Cliente 256,cliente256@exemplo.com,Recife,2023-08-06,False
-100,Cliente 100,cliente100@exemplo.com,Recife,2023-01-02,False
-461,Cliente 461,cliente461@exemplo.com,Recife,2023-05-27,False
-796,Cliente 796,cliente796@exemplo.com,Recife,2024-01-29,False
-673,Cliente 673,cliente673@exemplo.com,Recife,2023-04-10,False
-451,Cliente 451,cliente451@exemplo.com,Recife,2022-01-02,False
-188,Cliente 188,cliente188@exemplo.com,Recife,2022-03-29,False
-277,Cliente 277,cliente277@exemplo.com,Recife,2023-07-13,False
-512,Cliente 512,cliente512@exemplo.com,Recife,2023-05-05,False
-503,Cliente 503,cliente503@exemplo.com,Recife,2022-07-18,False
-734,Cliente 734,cliente734@exemplo.com,Recife,2022-10-21,False
-258,Cliente 258,cliente258@exemplo.com,Recife,2022-12-22,False
-64,Cliente 64,cliente64@exemplo.com,Recife,2022-03-22,False
-865,Cliente 865,cliente865@exemplo.com,Recife,2022-07-28,False
-957,Cliente 957,cliente957@exemplo.com,Recife,2024-05-08,False
-501,Cliente 501,cliente501@exemplo.com,Recife,2024-03-09,False
-514,Cliente 514,cliente514@exemplo.com,Recife,2023-10-21,False
-394,Cliente 394,cliente394@exemplo.com,Recife,2022-08-16,False
-768,Cliente 768,cliente768@exemplo.com,Recife,2022-08-28,False
-990,Cliente 990,cliente990@exemplo.com,Recife,2023-10-27,False
+5,Cliente 5,cliente5@exemplo.com,Recife,2022-07-02,False
 6,Cliente 6,cliente6@exemplo.com,Recife,2022-06-23,False
-318,Cliente 318,cliente318@exemplo.com,Recife,2022-09-05,False
-331,Cliente 331,cliente331@exemplo.com,Recife,2023-10-08,False
-969,Cliente 969,cliente969@exemplo.com,Recife,2023-08-26,False
-203,Cliente 203,cliente203@exemplo.com,Recife,2024-05-15,False
-690,Cliente 690,cliente690@exemplo.com,Recife,2024-01-21,False
-694,Cliente 694,cliente694@exemplo.com,Recife,2023-03-17,False
-34,Cliente 34,cliente34@exemplo.com,Recife,2022-07-16,False
-658,Cliente 658,cliente658@exemplo.com,Recife,2023-04-06,False
-581,Cliente 581,cliente581@exemplo.com,Recife,2024-01-31,False
-119,Cliente 119,cliente119@exemplo.com,Recife,2022-06-29,False
-606,Cliente 606,cliente606@exemplo.com,Recife,2023-12-07,False
-791,Cliente 791,cliente791@exemplo.com,Recife,2023-06-15,False
-522,Cliente 522,cliente522@exemplo.com,Recife,2022-11-16,False
-155,Cliente 155,cliente155@exemplo.com,Recife,2024-06-15,False
-687,Cliente 687,cliente687@exemplo.com,Recife,2023-05-12,False
-688,Cliente 688,cliente688@exemplo.com,Recife,2022-09-05,False
-420,Cliente 420,cliente420@exemplo.com,Recife,2022-09-13,False
-844,Cliente 844,cliente844@exemplo.com,Recife,2023-02-13,False
-281,Cliente 281,cliente281@exemplo.com,Recife,2023-12-06,False
-239,Cliente 239,cliente239@exemplo.com,Recife,2022-10-16,False
-875,Cliente 875,cliente875@exemplo.com,Recife,2023-11-24,False
-651,Cliente 651,cliente651@exemplo.com,Recife,2022-12-03,False
-1000,Cliente 1000,cliente1000@exemplo.com,Recife,2023-10-12,False
-286,Cliente 286,cliente286@exemplo.com,Recife,2024-04-21,False
-624,Cliente 624,cliente624@exemplo.com,Recife,2024-05-17,False
-58,Cliente 58,cliente58@exemplo.com,Recife,2022-07-14,False
-101,Cliente 101,cliente101@exemplo.com,Recife,2024-05-22,False
-75,Cliente 75,cliente75@exemplo.com,Recife,2022-09-27,False
-406,Cliente 406,cliente406@exemplo.com,Recife,2022-07-30,False
-861,Cliente 861,cliente861@exemplo.com,Recife,2022-09-25,False
-104,Cliente 104,cliente104@exemplo.com,Recife,2024-06-14,False
-947,Cliente 947,cliente947@exemplo.com,Recife,2024-05-02,False
-392,Cliente 392,cliente392@exemplo.com,Recife,2022-01-04,False
-573,Cliente 573,cliente573@exemplo.com,Recife,2022-11-22,False
-541,Cliente 541,cliente541@exemplo.com,Recife,2022-05-04,False
-271,Cliente 271,cliente271@exemplo.com,Recife,2024-03-07,False
-553,Cliente 553,cliente553@exemplo.com,Recife,2024-01-01,False
-144,Cliente 144,cliente144@exemplo.com,Recife,2023-08-09,False
-707,Cliente 707,cliente707@exemplo.com,Recife,2022-02-14,False
-605,Cliente 605,cliente605@exemplo.com,Recife,2022-08-04,False
-457,Cliente 457,cliente457@exemplo.com,Recife,2023-05-31,False
-513,Cliente 513,cliente513@exemplo.com,Recife,2023-06-08,False
-524,Cliente 524,cliente524@exemplo.com,Recife,2024-01-28,False
-365,Cliente 365,cliente365@exemplo.com,Recife,2024-01-13,False
-981,Cliente 981,cliente981@exemplo.com,Recife,2023-02-07,False
+7,Cliente 7,cliente7@exemplo.com,Curitiba,2023-11-10,False
+8,Cliente 8,cliente8@exemplo.com,Cuiabá,2024-01-14,False
+9,Cliente 9,cliente9@exemplo.com,Curitiba,2023-10-07,False
+10,Cliente 10,cliente10@exemplo.com,Cuiabá,2022-06-09,False
+11,Cliente 11,cliente11@exemplo.com,Manaus,2024-01-12,False
+12,Cliente 12,cliente12@exemplo.com,Recife,2023-05-31,False
+13,Cliente 13,cliente13@exemplo.com,Cuiabá,2022-10-15,False
+14,Cliente 14,cliente14@exemplo.com,Manaus,2022-05-30,False
+15,Cliente 15,cliente15@exemplo.com,Cuiabá,2023-10-21,False
+16,Cliente 16,cliente16@exemplo.com,Cuiabá,2024-01-20,False
+17,Cliente 17,cliente17@exemplo.com,Cuiabá,2022-01-11,False
+18,Cliente 18,cliente18@exemplo.com,Curitiba,2023-11-23,False
+19,Cliente 19,cliente19@exemplo.com,Manaus,2022-05-18,False
+20,Cliente 20,cliente20@exemplo.com,São Paulo,2022-11-04,False
+21,Cliente 21,cliente21@exemplo.com,São Paulo,2023-08-14,False
+22,Cliente 22,cliente22@exemplo.com,Cuiabá,2023-09-14,False
+23,Cliente 23,cliente23@exemplo.com,Curitiba,2023-06-28,False
+24,Cliente 24,cliente24@exemplo.com,Manaus,2022-04-13,False
+25,Cliente 25,cliente25@exemplo.com,Manaus,2022-01-10,False
 26,Cliente 26,cliente26@exemplo.com,Recife,2023-04-04,False
-926,Cliente 926,cliente926@exemplo.com,Recife,2023-02-16,False
-202,Cliente 202,cliente202@exemplo.com,Recife,2023-01-05,False
-749,Cliente 749,cliente749@exemplo.com,Recife,2023-01-01,False
-599,Cliente 599,cliente599@exemplo.com,Recife,2024-05-01,False
-78,Cliente 78,cliente78@exemplo.com,Recife,2023-10-12,False
-900,Cliente 900,cliente900@exemplo.com,Recife,2023-11-01,False
+27,Cliente 27,,Curitiba,2022-05-03,True
+28,Cliente 28,cliente28@exemplo.com,Manaus,2022-02-24,False
+29,Cliente 29,cliente29@exemplo.com,Curitiba,2024-01-17,False
+30,Cliente 30,cliente30@exemplo.com,São Paulo,2022-06-08,False
+31,Cliente 31,cliente31@exemplo.com,Curitiba,2022-02-03,False
+32,Cliente 32,cliente32@exemplo.com,Curitiba,2022-07-11,False
+33,Cliente 33,cliente33@exemplo.com,São Paulo,2022-06-04,False
+34,Cliente 34,cliente34@exemplo.com,Recife,2022-07-16,False
+35,Cliente 35,cliente35@exemplo.com,Curitiba,2024-03-08,False
+36,Cliente 36,cliente36@exemplo.com,Cuiabá,2024-03-27,False
+37,Cliente 37,cliente37@exemplo.com,Curitiba,2023-11-16,False
+38,Cliente 38,,Curitiba,2024-03-02,True
+39,Cliente 39,cliente39@exemplo.com,Manaus,2022-01-04,False
+40,Cliente 40,cliente40@exemplo.com,Manaus,2024-02-21,False
+41,Cliente 41,cliente41@exemplo.com,São Paulo,2022-07-03,False
+42,Cliente 42,cliente42@exemplo.com,Manaus,2023-07-27,False
+43,Cliente 43,cliente43@exemplo.com,Curitiba,2022-07-03,False
 44,Cliente 44,cliente44@exemplo.com,Recife,2023-12-13,False
-738,Cliente 738,cliente738@exemplo.com,Recife,2022-10-21,False
-486,Cliente 486,cliente486@exemplo.com,Recife,2023-04-05,False
-349,Cliente 349,cliente349@exemplo.com,Recife,2023-03-23,False
-377,Cliente 377,cliente377@exemplo.com,Recife,2022-08-03,False
-224,Cliente 224,cliente224@exemplo.com,Recife,2023-03-11,False
-308,Cliente 308,cliente308@exemplo.com,Recife,2022-08-14,False
-654,Cliente 654,cliente654@exemplo.com,Recife,2024-04-18,False
-362,Cliente 362,cliente362@exemplo.com,Recife,2022-04-26,False
-169,Cliente 169,cliente169@exemplo.com,Recife,2023-09-12,False
-927,Cliente 927,cliente927@exemplo.com,Recife,2023-04-01,False
-103,Cliente 103,cliente103@exemplo.com,Recife,2023-03-17,False
-953,Cliente 953,cliente953@exemplo.com,Recife,2024-04-29,False
+45,Cliente 45,cliente45@exemplo.com,Curitiba,2022-09-29,False
+46,Cliente 46,cliente46@exemplo.com,Manaus,2022-06-17,False
+47,Cliente 47,cliente47@exemplo.com,Manaus,2024-01-14,False
+48,Cliente 48,cliente48@exemplo.com,Recife,2022-11-03,False
+49,Cliente 49,cliente49@exemplo.com,Curitiba,2022-06-17,False
+50,Cliente 50,cliente50@exemplo.com,Manaus,2023-04-23,False
+51,Cliente 51,cliente51@exemplo.com,Curitiba,2023-04-18,False
+52,Cliente 52,cliente52@exemplo.com,Manaus,2023-08-04,False
+53,Cliente 53,cliente53@exemplo.com,Manaus,2024-04-17,False
+54,Cliente 54,cliente54@exemplo.com,Curitiba,2022-11-22,False
+55,Cliente 55,cliente55@exemplo.com,São Paulo,2022-04-05,False
+56,Cliente 56,cliente56@exemplo.com,Curitiba,2023-07-15,False
+57,Cliente 57,cliente57@exemplo.com,Curitiba,2024-01-28,False
+58,Cliente 58,cliente58@exemplo.com,Recife,2022-07-14,False
+59,Cliente 59,cliente59@exemplo.com,São Paulo,2022-01-23,False
+60,Cliente 60,cliente60@exemplo.com,Cuiabá,2022-10-03,False
+61,Cliente 61,cliente61@exemplo.com,São Paulo,2023-10-06,False
+62,Cliente 62,cliente62@exemplo.com,São Paulo,2022-09-07,False
+63,Cliente 63,cliente63@exemplo.com,Curitiba,2024-01-21,False
+64,Cliente 64,cliente64@exemplo.com,Recife,2022-03-22,False
+65,Cliente 65,cliente65@exemplo.com,São Paulo,2023-08-09,False
+66,Cliente 66,cliente66@exemplo.com,São Paulo,2022-07-06,False
+67,Cliente 67,cliente67@exemplo.com,Manaus,2024-05-29,False
+68,Cliente 68,cliente68@exemplo.com,Cuiabá,2023-05-22,False
+69,Cliente 69,cliente69@exemplo.com,Curitiba,2023-03-04,False
+70,Cliente 70,cliente70@exemplo.com,Manaus,2022-08-26,False
+71,Cliente 71,cliente71@exemplo.com,Manaus,2022-11-23,False
+72,Cliente 72,cliente72@exemplo.com,São Paulo,2022-08-05,False
+73,Cliente 73,cliente73@exemplo.com,Curitiba,2023-06-26,False
+74,Cliente 74,cliente74@exemplo.com,Recife,2023-08-10,False
+75,Cliente 75,cliente75@exemplo.com,Recife,2022-09-27,False
+76,Cliente 76,cliente76@exemplo.com,São Paulo,2023-03-24,False
+77,Cliente 77,cliente77@exemplo.com,São Paulo,2022-06-09,False
+78,Cliente 78,cliente78@exemplo.com,Recife,2023-10-12,False
 79,Cliente 79,cliente79@exemplo.com,Recife,2022-04-16,False
-729,Cliente 729,cliente729@exemplo.com,Recife,2023-06-28,False
-977,Cliente 977,cliente977@exemplo.com,Recife,2024-02-07,False
-611,Cliente 611,cliente611@exemplo.com,Recife,2023-02-26,False
-353,Cliente 353,cliente353@exemplo.com,Recife,2023-07-11,False
-802,Cliente 802,cliente802@exemplo.com,Recife,2023-12-07,False
-456,Cliente 456,cliente456@exemplo.com,Recife,2022-12-11,False
-765,Cliente 765,cliente765@exemplo.com,Recife,2022-12-14,False
-229,Cliente 229,cliente229@exemplo.com,Recife,2024-04-22,False
-863,Cliente 863,cliente863@exemplo.com,Recife,2022-07-09,False
-544,Cliente 544,cliente544@exemplo.com,Recife,2022-06-11,False
-441,Cliente 441,cliente441@exemplo.com,Recife,2023-06-30,False
-558,Cliente 558,cliente558@exemplo.com,Recife,2023-12-18,False
-475,Cliente 475,cliente475@exemplo.com,Recife,2024-02-24,False
-186,Cliente 186,cliente186@exemplo.com,Recife,2022-04-23,False
-407,Cliente 407,cliente407@exemplo.com,Recife,2023-04-28,False
-910,Cliente 910,cliente910@exemplo.com,Recife,2023-04-09,False
+80,Cliente 80,cliente80@exemplo.com,São Paulo,2022-05-19,False
+81,Cliente 81,cliente81@exemplo.com,Cuiabá,2023-10-21,False
+82,Cliente 82,cliente82@exemplo.com,Curitiba,2022-12-30,False
+83,Cliente 83,cliente83@exemplo.com,São Paulo,2022-10-11,False
+84,Cliente 84,cliente84@exemplo.com,Cuiabá,2022-01-03,False
+85,Cliente 85,cliente85@exemplo.com,Recife,2022-08-25,False
+86,Cliente 86,cliente86@exemplo.com,Manaus,2022-08-24,False
+87,Cliente 87,cliente87@exemplo.com,Cuiabá,2023-05-15,False
+88,Cliente 88,cliente88@exemplo.com,São Paulo,2023-09-14,False
+89,Cliente 89,cliente89@exemplo.com,Manaus,2024-02-04,False
+90,Cliente 90,cliente90@exemplo.com,Cuiabá,2023-11-04,False
+91,Cliente 91,cliente91@exemplo.com,Manaus,2022-12-22,False
+92,Cliente 92,cliente92@exemplo.com,Cuiabá,2022-06-05,False
+93,Cliente 93,cliente93@exemplo.com,São Paulo,2023-02-09,False
+94,Cliente 94,cliente94@exemplo.com,Cuiabá,2022-11-02,False
+95,Cliente 95,cliente95@exemplo.com,Curitiba,2022-02-22,False
+96,Cliente 96,cliente96@exemplo.com,São Paulo,2022-04-29,False
+97,Cliente 97,cliente97@exemplo.com,Cuiabá,2023-03-29,False
+98,Cliente 98,cliente98@exemplo.com,Curitiba,2023-05-05,False
+99,Cliente 99,cliente99@exemplo.com,Curitiba,2022-04-04,False
+100,Cliente 100,cliente100@exemplo.com,Recife,2023-01-02,False
+101,Cliente 101,cliente101@exemplo.com,Recife,2024-05-22,False
+102,Cliente 102,cliente102@exemplo.com,Manaus,2022-06-27,False
+103,Cliente 103,cliente103@exemplo.com,Recife,2023-03-17,False
+104,Cliente 104,cliente104@exemplo.com,Recife,2024-06-14,False
+105,Cliente 105,cliente105@exemplo.com,Manaus,2022-11-28,False
+106,Cliente 106,cliente106@exemplo.com,Cuiabá,2023-02-23,False
+107,Cliente 107,cliente107@exemplo.com,Cuiabá,2022-03-13,False
+108,Cliente 108,cliente108@exemplo.com,São Paulo,2023-03-15,False
+109,Cliente 109,cliente109@exemplo.com,Cuiabá,2024-03-12,False
+110,Cliente 110,cliente110@exemplo.com,Recife,2022-09-01,False
+111,Cliente 111,cliente111@exemplo.com,São Paulo,2023-05-14,False
+112,Cliente 112,cliente112@exemplo.com,Curitiba,2023-09-24,False
+113,Cliente 113,cliente113@exemplo.com,São Paulo,2023-07-27,False
+114,Cliente 114,cliente114@exemplo.com,Manaus,2023-05-26,False
+115,Cliente 115,cliente115@exemplo.com,São Paulo,2024-06-05,False
+116,Cliente 116,cliente116@exemplo.com,Manaus,2022-03-15,False
+117,Cliente 117,cliente117@exemplo.com,São Paulo,2022-01-03,False
+118,Cliente 118,cliente118@exemplo.com,Manaus,2022-03-07,False
+119,Cliente 119,cliente119@exemplo.com,Recife,2022-06-29,False
+120,Cliente 120,cliente120@exemplo.com,São Paulo,2022-06-12,False
+121,Cliente 121,cliente121@exemplo.com,São Paulo,2023-03-22,False
+122,Cliente 122,cliente122@exemplo.com,Manaus,2023-10-29,False
+123,Cliente 123,cliente123@exemplo.com,Manaus,2022-07-08,False
+124,Cliente 124,cliente124@exemplo.com,Cuiabá,2024-06-11,False
+125,Cliente 125,cliente125@exemplo.com,Cuiabá,2023-10-15,False
+126,Cliente 126,cliente126@exemplo.com,São Paulo,2023-01-17,False
+127,Cliente 127,cliente127@exemplo.com,Cuiabá,2023-10-16,False
+128,Cliente 128,cliente128@exemplo.com,Manaus,2022-09-17,False
+129,Cliente 129,cliente129@exemplo.com,Manaus,2022-04-07,False
+130,Cliente 130,cliente130@exemplo.com,Curitiba,2023-12-25,False
+131,Cliente 131,,Curitiba,2022-04-24,True
+132,Cliente 132,cliente132@exemplo.com,Curitiba,2023-03-13,False
 133,Cliente 133,cliente133@exemplo.com,Recife,2023-06-19,False
-901,Cliente 901,cliente901@exemplo.com,Recife,2022-09-08,False
-403,Cliente 403,cliente403@exemplo.com,Recife,2022-11-01,False
-593,Cliente 593,cliente593@exemplo.com,Recife,2024-03-08,False
-561,Cliente 561,cliente561@exemplo.com,Recife,2022-11-10,False
+134,Cliente 134,cliente134@exemplo.com,Cuiabá,2024-04-22,False
+135,Cliente 135,cliente135@exemplo.com,Cuiabá,2022-09-08,False
+136,Cliente 136,cliente136@exemplo.com,Curitiba,2022-04-06,False
+137,Cliente 137,cliente137@exemplo.com,Cuiabá,2022-11-25,False
+138,Cliente 138,cliente138@exemplo.com,Curitiba,2022-12-22,False
+139,Cliente 139,,Manaus,2022-05-23,True
+140,Cliente 140,cliente140@exemplo.com,Manaus,2024-01-04,False
+141,Cliente 141,cliente141@exemplo.com,Cuiabá,2022-03-01,False
+142,Cliente 142,cliente142@exemplo.com,Cuiabá,2022-11-17,False
+143,Cliente 143,cliente143@exemplo.com,Cuiabá,2022-04-16,False
+144,Cliente 144,cliente144@exemplo.com,Recife,2023-08-09,False
+145,Cliente 145,cliente145@exemplo.com,São Paulo,2022-01-29,False
+146,Cliente 146,cliente146@exemplo.com,Cuiabá,2022-11-21,False
+147,Cliente 147,cliente147@exemplo.com,Curitiba,2022-11-24,False
+148,Cliente 148,cliente148@exemplo.com,Curitiba,2022-10-11,False
+149,Cliente 149,cliente149@exemplo.com,São Paulo,2022-07-29,False
+150,Cliente 150,cliente150@exemplo.com,São Paulo,2024-05-01,False
+151,Cliente 151,cliente151@exemplo.com,Manaus,2023-10-14,False
+152,Cliente 152,cliente152@exemplo.com,Cuiabá,2023-06-10,False
+153,Cliente 153,cliente153@exemplo.com,Manaus,2023-11-04,False
+154,Cliente 154,cliente154@exemplo.com,São Paulo,2024-03-02,False
+155,Cliente 155,cliente155@exemplo.com,Recife,2024-06-15,False
+156,Cliente 156,cliente156@exemplo.com,Curitiba,2024-01-22,False
+157,Cliente 157,cliente157@exemplo.com,Cuiabá,2023-05-02,False
+158,Cliente 158,cliente158@exemplo.com,Cuiabá,2022-08-22,False
+159,Cliente 159,cliente159@exemplo.com,Manaus,2024-03-16,False
+160,Cliente 160,cliente160@exemplo.com,São Paulo,2022-01-09,False
+161,Cliente 161,cliente161@exemplo.com,São Paulo,2022-06-03,False
+162,Cliente 162,cliente162@exemplo.com,Manaus,2023-06-03,False
+163,Cliente 163,cliente163@exemplo.com,Manaus,2022-05-29,False
+164,Cliente 164,cliente164@exemplo.com,Manaus,2022-08-18,False
+165,Cliente 165,cliente165@exemplo.com,Recife,2023-03-12,False
+166,Cliente 166,cliente166@exemplo.com,Curitiba,2023-04-29,False
+167,Cliente 167,cliente167@exemplo.com,Cuiabá,2023-04-29,False
+168,Cliente 168,cliente168@exemplo.com,Manaus,2022-09-22,False
+169,Cliente 169,cliente169@exemplo.com,Recife,2023-09-12,False
+170,Cliente 170,cliente170@exemplo.com,Cuiabá,2022-03-30,False
+171,Cliente 171,cliente171@exemplo.com,Curitiba,2023-08-21,False
+172,Cliente 172,cliente172@exemplo.com,Cuiabá,2022-05-20,False
+173,Cliente 173,cliente173@exemplo.com,São Paulo,2022-04-23,False
+174,Cliente 174,cliente174@exemplo.com,São Paulo,2023-10-06,False
+175,Cliente 175,cliente175@exemplo.com,São Paulo,2022-03-23,False
+176,Cliente 176,cliente176@exemplo.com,Manaus,2022-11-25,False
+177,Cliente 177,cliente177@exemplo.com,Manaus,2023-07-11,False
+178,Cliente 178,cliente178@exemplo.com,Curitiba,2023-04-29,False
+179,Cliente 179,cliente179@exemplo.com,Curitiba,2024-04-17,False
+180,Cliente 180,cliente180@exemplo.com,São Paulo,2022-06-01,False
+181,Cliente 181,cliente181@exemplo.com,Cuiabá,2022-04-16,False
+182,Cliente 182,cliente182@exemplo.com,Cuiabá,2022-06-06,False
 183,Cliente 183,cliente183@exemplo.com,Recife,2022-05-03,False
-931,Cliente 931,cliente931@exemplo.com,Recife,2022-05-13,False
-537,Cliente 537,cliente537@exemplo.com,Recife,2022-10-06,False
+184,Cliente 184,cliente184@exemplo.com,Cuiabá,2023-03-30,False
+185,Cliente 185,cliente185@exemplo.com,São Paulo,2023-06-26,False
+186,Cliente 186,cliente186@exemplo.com,Recife,2022-04-23,False
+187,Cliente 187,cliente187@exemplo.com,São Paulo,2023-07-03,False
+188,Cliente 188,cliente188@exemplo.com,Recife,2022-03-29,False
+189,Cliente 189,cliente189@exemplo.com,São Paulo,2022-08-16,False
+190,Cliente 190,cliente190@exemplo.com,Cuiabá,2023-02-01,False
+191,Cliente 191,cliente191@exemplo.com,Manaus,2022-07-09,False
+192,Cliente 192,cliente192@exemplo.com,Cuiabá,2024-05-05,False
+193,Cliente 193,cliente193@exemplo.com,São Paulo,2023-01-30,False
+194,Cliente 194,cliente194@exemplo.com,Cuiabá,2022-09-19,False
+195,Cliente 195,cliente195@exemplo.com,Cuiabá,2022-04-30,False
+196,Cliente 196,cliente196@exemplo.com,Curitiba,2022-07-11,False
+197,Cliente 197,cliente197@exemplo.com,Recife,2024-02-07,False
+198,Cliente 198,cliente198@exemplo.com,Manaus,2022-02-14,False
+199,Cliente 199,cliente199@exemplo.com,Manaus,2022-10-25,False
+200,Cliente 200,cliente200@exemplo.com,Cuiabá,2023-04-12,False
+201,Cliente 201,cliente201@exemplo.com,Manaus,2024-04-20,False
+202,Cliente 202,cliente202@exemplo.com,Recife,2023-01-05,False
+203,Cliente 203,cliente203@exemplo.com,Recife,2024-05-15,False
+204,Cliente 204,cliente204@exemplo.com,São Paulo,2023-03-19,False
+205,Cliente 205,cliente205@exemplo.com,Curitiba,2022-07-10,False
+206,Cliente 206,cliente206@exemplo.com,Cuiabá,2022-04-02,False
+207,Cliente 207,cliente207@exemplo.com,Curitiba,2024-05-29,False
+208,Cliente 208,cliente208@exemplo.com,Recife,2024-04-06,False
+209,Cliente 209,cliente209@exemplo.com,São Paulo,2024-05-23,False
+210,Cliente 210,,São Paulo,2022-06-07,True
+211,Cliente 211,cliente211@exemplo.com,São Paulo,2024-05-25,False
+212,Cliente 212,cliente212@exemplo.com,Curitiba,2023-02-22,False
+213,Cliente 213,cliente213@exemplo.com,Manaus,2024-03-29,False
+214,Cliente 214,cliente214@exemplo.com,Cuiabá,2024-03-11,False
+215,Cliente 215,cliente215@exemplo.com,Manaus,2022-10-29,False
+216,Cliente 216,cliente216@exemplo.com,Cuiabá,2022-12-21,False
+217,Cliente 217,,São Paulo,2023-02-23,True
+218,Cliente 218,cliente218@exemplo.com,Cuiabá,2022-05-25,False
+219,Cliente 219,cliente219@exemplo.com,Manaus,2023-10-13,False
+220,Cliente 220,cliente220@exemplo.com,Cuiabá,2023-03-21,False
+221,Cliente 221,cliente221@exemplo.com,Cuiabá,2022-12-04,False
+222,Cliente 222,,Manaus,2024-04-19,True
+223,Cliente 223,cliente223@exemplo.com,Curitiba,2023-06-02,False
+224,Cliente 224,cliente224@exemplo.com,Recife,2023-03-11,False
+225,Cliente 225,,Recife,2024-05-29,True
+226,Cliente 226,cliente226@exemplo.com,Curitiba,2022-07-29,False
+227,Cliente 227,cliente227@exemplo.com,Recife,2023-03-27,False
+228,Cliente 228,cliente228@exemplo.com,Recife,2023-03-15,False
+229,Cliente 229,cliente229@exemplo.com,Recife,2024-04-22,False
+230,Cliente 230,cliente230@exemplo.com,Manaus,2023-03-03,False
+231,Cliente 231,cliente231@exemplo.com,Manaus,2023-08-24,False
+232,Cliente 232,cliente232@exemplo.com,Manaus,2024-01-28,False
+233,Cliente 233,cliente233@exemplo.com,São Paulo,2023-03-15,False
+234,Cliente 234,cliente234@exemplo.com,Cuiabá,2023-02-05,False
+235,Cliente 235,cliente235@exemplo.com,Cuiabá,2024-04-22,False
+236,Cliente 236,cliente236@exemplo.com,Manaus,2022-07-25,False
+237,Cliente 237,cliente237@exemplo.com,Cuiabá,2023-03-18,False
+238,Cliente 238,cliente238@exemplo.com,Curitiba,2024-03-30,False
+239,Cliente 239,cliente239@exemplo.com,Recife,2022-10-16,False
+240,Cliente 240,cliente240@exemplo.com,Curitiba,2022-05-09,False
+241,Cliente 241,cliente241@exemplo.com,Cuiabá,2023-09-28,False
+242,Cliente 242,cliente242@exemplo.com,Manaus,2023-01-04,False
+243,Cliente 243,cliente243@exemplo.com,Manaus,2022-12-21,False
+244,Cliente 244,cliente244@exemplo.com,Curitiba,2023-03-20,False
+245,Cliente 245,cliente245@exemplo.com,Cuiabá,2023-06-26,False
+246,Cliente 246,,Cuiabá,2023-05-30,True
+247,Cliente 247,cliente247@exemplo.com,São Paulo,2022-05-22,False
+248,Cliente 248,cliente248@exemplo.com,Curitiba,2022-05-28,False
+249,Cliente 249,cliente249@exemplo.com,Manaus,2022-09-22,False
+250,Cliente 250,cliente250@exemplo.com,Manaus,2022-06-06,False
+251,Cliente 251,cliente251@exemplo.com,Cuiabá,2024-05-19,False
+252,Cliente 252,cliente252@exemplo.com,Curitiba,2022-06-04,False
+253,Cliente 253,cliente253@exemplo.com,São Paulo,2022-02-25,False
+254,Cliente 254,cliente254@exemplo.com,Recife,2023-01-06,False
+255,Cliente 255,cliente255@exemplo.com,São Paulo,2024-05-24,False
+256,Cliente 256,cliente256@exemplo.com,Recife,2023-08-06,False
+257,Cliente 257,cliente257@exemplo.com,Recife,2022-07-30,False
+258,Cliente 258,cliente258@exemplo.com,Recife,2022-12-22,False
+259,Cliente 259,cliente259@exemplo.com,Manaus,2023-07-22,False
+260,Cliente 260,cliente260@exemplo.com,Recife,2022-01-20,False
+261,Cliente 261,cliente261@exemplo.com,Cuiabá,2022-11-28,False
+262,Cliente 262,cliente262@exemplo.com,Recife,2023-08-28,False
+263,Cliente 263,cliente263@exemplo.com,Curitiba,2022-04-09,False
+264,Cliente 264,,Manaus,2022-05-29,True
+265,Cliente 265,cliente265@exemplo.com,Cuiabá,2022-09-10,False
+266,Cliente 266,cliente266@exemplo.com,Cuiabá,2023-07-10,False
+267,Cliente 267,cliente267@exemplo.com,Recife,2022-05-02,False
+268,Cliente 268,cliente268@exemplo.com,Curitiba,2022-07-08,False
+269,Cliente 269,cliente269@exemplo.com,Cuiabá,2022-05-21,False
+270,Cliente 270,cliente270@exemplo.com,São Paulo,2022-11-15,False
+271,Cliente 271,cliente271@exemplo.com,Recife,2024-03-07,False
+272,Cliente 272,cliente272@exemplo.com,Curitiba,2024-06-16,False
+273,Cliente 273,cliente273@exemplo.com,Cuiabá,2022-10-22,False
+274,Cliente 274,cliente274@exemplo.com,Cuiabá,2022-12-04,False
+275,Cliente 275,cliente275@exemplo.com,Cuiabá,2024-05-04,False
+276,Cliente 276,cliente276@exemplo.com,Cuiabá,2023-03-06,False
+277,Cliente 277,cliente277@exemplo.com,Recife,2023-07-13,False
+278,Cliente 278,cliente278@exemplo.com,São Paulo,2023-11-10,False
+279,Cliente 279,cliente279@exemplo.com,Cuiabá,2023-06-15,False
+280,Cliente 280,cliente280@exemplo.com,Manaus,2023-08-16,False
+281,Cliente 281,cliente281@exemplo.com,Recife,2023-12-06,False
+282,Cliente 282,cliente282@exemplo.com,Manaus,2022-03-29,False
+283,Cliente 283,cliente283@exemplo.com,São Paulo,2022-09-15,False
+284,Cliente 284,cliente284@exemplo.com,Manaus,2024-01-01,False
+285,Cliente 285,cliente285@exemplo.com,Manaus,2023-01-17,False
+286,Cliente 286,cliente286@exemplo.com,Recife,2024-04-21,False
+287,Cliente 287,cliente287@exemplo.com,São Paulo,2022-09-19,False
+288,Cliente 288,cliente288@exemplo.com,Curitiba,2022-04-16,False
+289,Cliente 289,cliente289@exemplo.com,Recife,2022-06-23,False
+290,Cliente 290,cliente290@exemplo.com,Curitiba,2022-12-04,False
+291,Cliente 291,cliente291@exemplo.com,Manaus,2022-04-01,False
+292,Cliente 292,cliente292@exemplo.com,Curitiba,2022-12-03,False
+293,Cliente 293,cliente293@exemplo.com,Curitiba,2022-03-14,False
+294,Cliente 294,cliente294@exemplo.com,Manaus,2023-11-08,False
+295,Cliente 295,cliente295@exemplo.com,Cuiabá,2022-11-16,False
+296,Cliente 296,cliente296@exemplo.com,Cuiabá,2023-06-08,False
+297,Cliente 297,cliente297@exemplo.com,Curitiba,2023-04-15,False
+298,Cliente 298,cliente298@exemplo.com,Cuiabá,2022-05-03,False
+299,Cliente 299,cliente299@exemplo.com,Manaus,2022-09-29,False
+300,Cliente 300,cliente300@exemplo.com,Cuiabá,2024-04-14,False
+301,Cliente 301,cliente301@exemplo.com,São Paulo,2023-06-13,False
+302,Cliente 302,cliente302@exemplo.com,São Paulo,2023-12-13,False
+303,Cliente 303,cliente303@exemplo.com,Curitiba,2024-02-08,False
+304,Cliente 304,cliente304@exemplo.com,Cuiabá,2023-02-28,False
+305,Cliente 305,cliente305@exemplo.com,São Paulo,2023-08-09,False
+306,Cliente 306,cliente306@exemplo.com,Curitiba,2023-08-22,False
+307,Cliente 307,cliente307@exemplo.com,São Paulo,2023-08-28,False
+308,Cliente 308,cliente308@exemplo.com,Recife,2022-08-14,False
+309,Cliente 309,cliente309@exemplo.com,Manaus,2022-11-28,False
+310,Cliente 310,cliente310@exemplo.com,Manaus,2023-09-09,False
+311,Cliente 311,cliente311@exemplo.com,São Paulo,2022-05-25,False
+312,Cliente 312,cliente312@exemplo.com,Manaus,2024-02-18,False
+313,Cliente 313,cliente313@exemplo.com,Manaus,2022-04-04,False
+314,Cliente 314,cliente314@exemplo.com,São Paulo,2022-09-18,False
+315,Cliente 315,cliente315@exemplo.com,São Paulo,2023-01-09,False
+316,Cliente 316,cliente316@exemplo.com,Curitiba,2024-01-29,False
+317,Cliente 317,cliente317@exemplo.com,São Paulo,2022-04-01,False
+318,Cliente 318,cliente318@exemplo.com,Recife,2022-09-05,False
+319,Cliente 319,cliente319@exemplo.com,Manaus,2024-03-17,False
+320,Cliente 320,cliente320@exemplo.com,Cuiabá,2022-01-27,False
+321,Cliente 321,cliente321@exemplo.com,Manaus,2024-02-06,False
+322,Cliente 322,cliente322@exemplo.com,Cuiabá,2022-05-07,False
+323,Cliente 323,cliente323@exemplo.com,Curitiba,2024-02-09,False
+324,Cliente 324,cliente324@exemplo.com,São Paulo,2022-03-20,False
+325,Cliente 325,cliente325@exemplo.com,Curitiba,2022-03-12,False
+326,Cliente 326,cliente326@exemplo.com,Manaus,2022-06-11,False
+327,Cliente 327,cliente327@exemplo.com,São Paulo,2023-07-22,False
+328,Cliente 328,cliente328@exemplo.com,São Paulo,2024-02-03,False
+329,Cliente 329,cliente329@exemplo.com,Cuiabá,2023-08-02,False
+330,Cliente 330,cliente330@exemplo.com,São Paulo,2022-04-14,False
+331,Cliente 331,cliente331@exemplo.com,Recife,2023-10-08,False
+332,Cliente 332,cliente332@exemplo.com,São Paulo,2023-01-15,False
+333,Cliente 333,cliente333@exemplo.com,Manaus,2024-05-05,False
+334,Cliente 334,cliente334@exemplo.com,Curitiba,2023-12-08,False
+335,Cliente 335,cliente335@exemplo.com,Manaus,2022-12-01,False
+336,Cliente 336,cliente336@exemplo.com,Cuiabá,2023-09-29,False
+337,Cliente 337,cliente337@exemplo.com,Cuiabá,2023-01-26,False
+338,Cliente 338,cliente338@exemplo.com,Curitiba,2023-11-24,False
+339,Cliente 339,cliente339@exemplo.com,Cuiabá,2023-04-18,False
+340,Cliente 340,cliente340@exemplo.com,Manaus,2023-01-12,False
+341,Cliente 341,cliente341@exemplo.com,São Paulo,2024-02-05,False
+342,Cliente 342,cliente342@exemplo.com,Curitiba,2023-01-09,False
+343,Cliente 343,cliente343@exemplo.com,Manaus,2022-03-14,False
+344,Cliente 344,cliente344@exemplo.com,Curitiba,2022-04-27,False
+345,Cliente 345,cliente345@exemplo.com,Cuiabá,2023-11-13,False
+346,Cliente 346,cliente346@exemplo.com,Manaus,2022-10-10,False
+347,Cliente 347,cliente347@exemplo.com,Manaus,2023-08-25,False
+348,Cliente 348,cliente348@exemplo.com,Curitiba,2022-12-10,False
+349,Cliente 349,cliente349@exemplo.com,Recife,2023-03-23,False
+350,Cliente 350,cliente350@exemplo.com,São Paulo,2023-03-29,False
+351,Cliente 351,cliente351@exemplo.com,Curitiba,2023-06-15,False
+352,Cliente 352,cliente352@exemplo.com,São Paulo,2022-01-23,False
+353,Cliente 353,cliente353@exemplo.com,Recife,2023-07-11,False
+354,Cliente 354,cliente354@exemplo.com,São Paulo,2022-01-10,False
+355,Cliente 355,cliente355@exemplo.com,Curitiba,2023-10-10,False
+356,Cliente 356,cliente356@exemplo.com,Cuiabá,2023-06-16,False
+357,Cliente 357,cliente357@exemplo.com,Manaus,2023-06-04,False
+358,Cliente 358,cliente358@exemplo.com,Curitiba,2023-11-27,False
+359,Cliente 359,cliente359@exemplo.com,Curitiba,2023-07-20,False
+360,Cliente 360,cliente360@exemplo.com,São Paulo,2023-06-02,False
+361,Cliente 361,cliente361@exemplo.com,Cuiabá,2023-08-15,False
+362,Cliente 362,cliente362@exemplo.com,Recife,2022-04-26,False
+363,Cliente 363,cliente363@exemplo.com,Cuiabá,2023-02-19,False
+364,Cliente 364,cliente364@exemplo.com,Curitiba,2022-02-14,False
+365,Cliente 365,cliente365@exemplo.com,Recife,2024-01-13,False
+366,Cliente 366,cliente366@exemplo.com,Manaus,2022-02-23,False
+367,Cliente 367,cliente367@exemplo.com,Curitiba,2022-02-28,False
+368,Cliente 368,cliente368@exemplo.com,Recife,2024-02-08,False
+369,Cliente 369,cliente369@exemplo.com,São Paulo,2023-02-24,False
+370,Cliente 370,cliente370@exemplo.com,Cuiabá,2023-07-26,False
+371,Cliente 371,cliente371@exemplo.com,Cuiabá,2023-08-21,False
+372,Cliente 372,cliente372@exemplo.com,Recife,2023-03-23,False
+373,Cliente 373,cliente373@exemplo.com,São Paulo,2024-02-14,False
+374,Cliente 374,cliente374@exemplo.com,Cuiabá,2023-12-23,False
+375,Cliente 375,cliente375@exemplo.com,Manaus,2022-08-12,False
+376,Cliente 376,cliente376@exemplo.com,Curitiba,2022-11-28,False
+377,Cliente 377,cliente377@exemplo.com,Recife,2022-08-03,False
+378,Cliente 378,cliente378@exemplo.com,Manaus,2022-06-05,False
+379,Cliente 379,cliente379@exemplo.com,São Paulo,2023-07-16,False
+380,Cliente 380,cliente380@exemplo.com,São Paulo,2023-05-17,False
+381,Cliente 381,cliente381@exemplo.com,São Paulo,2023-04-26,False
+382,Cliente 382,cliente382@exemplo.com,Recife,2022-12-20,False
+383,Cliente 383,cliente383@exemplo.com,São Paulo,2023-02-12,False
+384,Cliente 384,cliente384@exemplo.com,Curitiba,2023-08-08,False
+385,Cliente 385,,Recife,2023-06-21,True
+386,Cliente 386,cliente386@exemplo.com,Recife,2023-08-08,False
+387,Cliente 387,cliente387@exemplo.com,Cuiabá,2022-10-23,False
+388,Cliente 388,cliente388@exemplo.com,Manaus,2023-09-16,False
+389,Cliente 389,cliente389@exemplo.com,Cuiabá,2022-06-09,False
+390,Cliente 390,cliente390@exemplo.com,Cuiabá,2022-07-20,False
+391,Cliente 391,cliente391@exemplo.com,Manaus,2022-03-14,False
+392,Cliente 392,cliente392@exemplo.com,Recife,2022-01-04,False
+393,Cliente 393,cliente393@exemplo.com,Curitiba,2024-04-14,False
+394,Cliente 394,cliente394@exemplo.com,Recife,2022-08-16,False
+395,Cliente 395,cliente395@exemplo.com,Curitiba,2022-05-23,False
+396,Cliente 396,cliente396@exemplo.com,Manaus,2023-02-23,False
+397,Cliente 397,cliente397@exemplo.com,São Paulo,2023-01-10,False
+398,Cliente 398,cliente398@exemplo.com,São Paulo,2023-05-08,False
+399,Cliente 399,cliente399@exemplo.com,Curitiba,2023-08-29,False
+400,Cliente 400,cliente400@exemplo.com,São Paulo,2024-04-04,False
+401,Cliente 401,cliente401@exemplo.com,Curitiba,2022-06-28,False
+402,Cliente 402,cliente402@exemplo.com,Manaus,2024-01-27,False
+403,Cliente 403,cliente403@exemplo.com,Recife,2022-11-01,False
+404,Cliente 404,cliente404@exemplo.com,São Paulo,2022-06-18,False
+405,Cliente 405,cliente405@exemplo.com,Manaus,2022-03-18,False
+406,Cliente 406,cliente406@exemplo.com,Recife,2022-07-30,False
+407,Cliente 407,cliente407@exemplo.com,Recife,2023-04-28,False
+408,Cliente 408,cliente408@exemplo.com,São Paulo,2022-06-06,False
+409,Cliente 409,cliente409@exemplo.com,Manaus,2024-02-23,False
+410,Cliente 410,cliente410@exemplo.com,Recife,2024-05-27,False
+411,Cliente 411,cliente411@exemplo.com,Curitiba,2023-06-22,False
+412,Cliente 412,cliente412@exemplo.com,Curitiba,2023-11-27,False
+413,Cliente 413,cliente413@exemplo.com,Cuiabá,2023-02-05,False
+414,Cliente 414,cliente414@exemplo.com,Cuiabá,2024-06-02,False
+415,Cliente 415,cliente415@exemplo.com,Cuiabá,2023-01-27,False
+416,Cliente 416,cliente416@exemplo.com,Curitiba,2023-07-21,False
+417,Cliente 417,cliente417@exemplo.com,Manaus,2023-02-11,False
+418,Cliente 418,cliente418@exemplo.com,Cuiabá,2023-01-13,False
+419,Cliente 419,cliente419@exemplo.com,Manaus,2022-06-18,False
+420,Cliente 420,cliente420@exemplo.com,Recife,2022-09-13,False
+421,Cliente 421,cliente421@exemplo.com,Manaus,2023-04-26,False
+422,Cliente 422,cliente422@exemplo.com,Cuiabá,2022-12-14,False
+423,Cliente 423,cliente423@exemplo.com,Curitiba,2023-03-28,False
+424,Cliente 424,cliente424@exemplo.com,Cuiabá,2022-12-20,False
+425,Cliente 425,cliente425@exemplo.com,Curitiba,2023-01-08,False
+426,Cliente 426,cliente426@exemplo.com,Curitiba,2022-03-28,False
+427,Cliente 427,cliente427@exemplo.com,São Paulo,2022-03-23,False
+428,Cliente 428,cliente428@exemplo.com,Cuiabá,2022-06-12,False
+429,Cliente 429,cliente429@exemplo.com,Cuiabá,2022-11-18,False
+430,Cliente 430,cliente430@exemplo.com,Cuiabá,2023-09-15,False
+431,Cliente 431,cliente431@exemplo.com,Cuiabá,2023-06-06,False
+432,Cliente 432,cliente432@exemplo.com,Manaus,2023-10-20,False
+433,Cliente 433,cliente433@exemplo.com,São Paulo,2022-11-20,False
+434,Cliente 434,cliente434@exemplo.com,Manaus,2023-06-07,False
+435,Cliente 435,cliente435@exemplo.com,São Paulo,2022-12-19,False
+436,Cliente 436,cliente436@exemplo.com,Cuiabá,2023-04-04,False
+437,Cliente 437,cliente437@exemplo.com,Curitiba,2022-04-19,False
+438,Cliente 438,,Recife,2024-01-19,True
+439,Cliente 439,cliente439@exemplo.com,São Paulo,2022-12-24,False
+440,Cliente 440,cliente440@exemplo.com,Manaus,2022-01-11,False
+441,Cliente 441,cliente441@exemplo.com,Recife,2023-06-30,False
+442,Cliente 442,cliente442@exemplo.com,São Paulo,2023-05-14,False
+443,Cliente 443,cliente443@exemplo.com,São Paulo,2023-07-18,False
+444,Cliente 444,cliente444@exemplo.com,Manaus,2023-02-08,False
+445,Cliente 445,cliente445@exemplo.com,São Paulo,2022-02-13,False
+446,Cliente 446,cliente446@exemplo.com,Curitiba,2023-02-28,False
+447,Cliente 447,cliente447@exemplo.com,Manaus,2022-07-26,False
+448,Cliente 448,cliente448@exemplo.com,Curitiba,2023-03-17,False
+449,Cliente 449,cliente449@exemplo.com,Cuiabá,2023-02-16,False
+450,Cliente 450,cliente450@exemplo.com,Cuiabá,2022-02-27,False
+451,Cliente 451,cliente451@exemplo.com,Recife,2022-01-02,False
+452,Cliente 452,cliente452@exemplo.com,Manaus,2022-07-18,False
+453,Cliente 453,cliente453@exemplo.com,São Paulo,2024-01-29,False
+454,Cliente 454,cliente454@exemplo.com,Curitiba,2022-12-24,False
+455,Cliente 455,cliente455@exemplo.com,Cuiabá,2022-02-16,False
+456,Cliente 456,cliente456@exemplo.com,Recife,2022-12-11,False
+457,Cliente 457,cliente457@exemplo.com,Recife,2023-05-31,False
+458,Cliente 458,cliente458@exemplo.com,Cuiabá,2023-03-27,False
+459,Cliente 459,cliente459@exemplo.com,Manaus,2024-01-09,False
+460,Cliente 460,cliente460@exemplo.com,Manaus,2022-10-31,False
+461,Cliente 461,cliente461@exemplo.com,Recife,2023-05-27,False
+462,Cliente 462,cliente462@exemplo.com,São Paulo,2023-11-08,False
+463,Cliente 463,cliente463@exemplo.com,Manaus,2022-06-27,False
+464,Cliente 464,cliente464@exemplo.com,Cuiabá,2022-01-30,False
+465,Cliente 465,cliente465@exemplo.com,Manaus,2023-05-09,False
+466,Cliente 466,cliente466@exemplo.com,Curitiba,2022-03-15,False
+467,Cliente 467,cliente467@exemplo.com,São Paulo,2023-04-11,False
+468,Cliente 468,,Cuiabá,2023-03-20,True
+469,Cliente 469,cliente469@exemplo.com,Cuiabá,2023-12-04,False
+470,Cliente 470,cliente470@exemplo.com,Curitiba,2023-06-19,False
+471,Cliente 471,cliente471@exemplo.com,São Paulo,2023-10-11,False
+472,Cliente 472,cliente472@exemplo.com,Manaus,2023-07-05,False
+473,Cliente 473,cliente473@exemplo.com,Cuiabá,2022-06-20,False
+474,Cliente 474,cliente474@exemplo.com,Curitiba,2022-12-11,False
+475,Cliente 475,cliente475@exemplo.com,Recife,2024-02-24,False
+476,Cliente 476,cliente476@exemplo.com,Recife,2023-09-13,False
+477,Cliente 477,cliente477@exemplo.com,São Paulo,2022-05-22,False
+478,Cliente 478,cliente478@exemplo.com,São Paulo,2022-06-06,False
+479,Cliente 479,cliente479@exemplo.com,Curitiba,2022-08-08,False
+480,Cliente 480,cliente480@exemplo.com,Manaus,2023-02-25,False
+481,Cliente 481,cliente481@exemplo.com,Curitiba,2023-07-27,False
+482,Cliente 482,cliente482@exemplo.com,São Paulo,2022-09-06,False
+483,Cliente 483,cliente483@exemplo.com,Recife,2024-04-19,False
+484,Cliente 484,cliente484@exemplo.com,Recife,2023-10-30,False
+485,Cliente 485,cliente485@exemplo.com,Recife,2023-12-17,False
+486,Cliente 486,cliente486@exemplo.com,Recife,2023-04-05,False
+487,Cliente 487,cliente487@exemplo.com,Cuiabá,2022-10-09,False
+488,Cliente 488,cliente488@exemplo.com,Manaus,2023-10-15,False
+489,Cliente 489,cliente489@exemplo.com,Curitiba,2024-06-01,False
+490,Cliente 490,cliente490@exemplo.com,Cuiabá,2023-05-31,False
+491,Cliente 491,cliente491@exemplo.com,Cuiabá,2023-05-20,False
+492,Cliente 492,cliente492@exemplo.com,Manaus,2023-02-08,False
+493,Cliente 493,cliente493@exemplo.com,Cuiabá,2022-09-14,False
+494,Cliente 494,cliente494@exemplo.com,Manaus,2024-04-29,False
+495,Cliente 495,,Manaus,2022-08-26,True
+496,Cliente 496,cliente496@exemplo.com,Curitiba,2024-02-15,False
+497,Cliente 497,cliente497@exemplo.com,Curitiba,2022-11-22,False
+498,Cliente 498,cliente498@exemplo.com,Manaus,2022-05-15,False
+499,Cliente 499,cliente499@exemplo.com,Recife,2023-08-10,False
+500,Cliente 500,cliente500@exemplo.com,Recife,2022-01-09,False
+501,Cliente 501,cliente501@exemplo.com,Recife,2024-03-09,False
+502,Cliente 502,cliente502@exemplo.com,Curitiba,2023-03-07,False
+503,Cliente 503,cliente503@exemplo.com,Recife,2022-07-18,False
 504,Cliente 504,cliente504@exemplo.com,Recife,2023-03-30,False
 505,Cliente 505,cliente505@exemplo.com,Recife,2022-01-04,False
-260,Cliente 260,cliente260@exemplo.com,Recife,2022-01-20,False
-813,Cliente 813,cliente813@exemplo.com,Recife,2022-06-29,False
-227,Cliente 227,cliente227@exemplo.com,Recife,2023-03-27,False
-864,Cliente 864,cliente864@exemplo.com,Recife,2022-02-22,False
-685,Cliente 685,cliente685@exemplo.com,Recife,2023-11-28,False
-751,Cliente 751,cliente751@exemplo.com,Recife,2023-12-22,False
-750,Cliente 750,cliente750@exemplo.com,Recife,2022-03-14,False
-267,Cliente 267,cliente267@exemplo.com,Recife,2022-05-02,False
-722,Cliente 722,cliente722@exemplo.com,Recife,2024-05-20,False
-772,Cliente 772,cliente772@exemplo.com,Recife,2022-02-12,False
-567,Cliente 567,cliente567@exemplo.com,Recife,2023-12-06,False
-368,Cliente 368,cliente368@exemplo.com,Recife,2024-02-08,False
-767,Cliente 767,cliente767@exemplo.com,Recife,2023-07-11,False
-727,Cliente 727,cliente727@exemplo.com,Recife,2023-11-27,False
-262,Cliente 262,cliente262@exemplo.com,Recife,2023-08-28,False
-600,Cliente 600,cliente600@exemplo.com,Recife,2023-09-22,False
-410,Cliente 410,cliente410@exemplo.com,Recife,2024-05-27,False
-542,Cliente 542,cliente542@exemplo.com,Recife,2022-05-01,False
-930,Cliente 930,cliente930@exemplo.com,Recife,2022-06-17,False
-500,Cliente 500,cliente500@exemplo.com,Recife,2022-01-09,False
-993,Cliente 993,cliente993@exemplo.com,Recife,2022-01-15,False
-627,Cliente 627,cliente627@exemplo.com,Recife,2024-06-14,False
-254,Cliente 254,cliente254@exemplo.com,Recife,2023-01-06,False
-922,Cliente 922,cliente922@exemplo.com,Recife,2024-05-19,False
-762,Cliente 762,cliente762@exemplo.com,Recife,2024-03-25,False
-508,Cliente 508,cliente508@exemplo.com,Recife,2022-09-17,False
-5,Cliente 5,cliente5@exemplo.com,Recife,2022-07-02,False
-576,Cliente 576,cliente576@exemplo.com,Recife,2022-12-08,False
-110,Cliente 110,cliente110@exemplo.com,Recife,2022-09-01,False
-923,Cliente 923,cliente923@exemplo.com,Recife,2022-11-18,False
-476,Cliente 476,cliente476@exemplo.com,Recife,2023-09-13,False
-853,Cliente 853,cliente853@exemplo.com,Recife,2022-02-05,False
-372,Cliente 372,cliente372@exemplo.com,Recife,2023-03-23,False
-971,Cliente 971,cliente971@exemplo.com,Recife,2023-08-24,False
-386,Cliente 386,cliente386@exemplo.com,Recife,2023-08-08,False
-543,Cliente 543,cliente543@exemplo.com,Recife,2022-11-08,False
-197,Cliente 197,cliente197@exemplo.com,Recife,2024-02-07,False
-257,Cliente 257,cliente257@exemplo.com,Recife,2022-07-30,False
-700,Cliente 700,cliente700@exemplo.com,Recife,2023-10-22,False
-289,Cliente 289,cliente289@exemplo.com,Recife,2022-06-23,False
-674,Cliente 674,cliente674@exemplo.com,Recife,2022-06-22,False
-974,Cliente 974,cliente974@exemplo.com,Recife,2022-08-10,False
-328,Cliente 328,cliente328@exemplo.com,São Paulo,2024-02-03,False
-987,Cliente 987,cliente987@exemplo.com,São Paulo,2024-01-28,False
-913,Cliente 913,cliente913@exemplo.com,São Paulo,2022-10-02,False
-948,Cliente 948,cliente948@exemplo.com,São Paulo,2022-04-30,False
-985,Cliente 985,cliente985@exemplo.com,São Paulo,2022-06-07,False
-93,Cliente 93,cliente93@exemplo.com,São Paulo,2023-02-09,False
-655,Cliente 655,cliente655@exemplo.com,São Paulo,2023-03-21,False
-732,Cliente 732,cliente732@exemplo.com,São Paulo,2023-11-26,False
-540,Cliente 540,cliente540@exemplo.com,São Paulo,2023-07-22,False
-637,Cliente 637,cliente637@exemplo.com,São Paulo,2023-06-17,False
-899,Cliente 899,cliente899@exemplo.com,São Paulo,2022-08-14,False
-653,Cliente 653,cliente653@exemplo.com,São Paulo,2023-06-28,False
-369,Cliente 369,cliente369@exemplo.com,São Paulo,2023-02-24,False
-211,Cliente 211,cliente211@exemplo.com,São Paulo,2024-05-25,False
-824,Cliente 824,cliente824@exemplo.com,São Paulo,2023-02-04,False
-283,Cliente 283,cliente283@exemplo.com,São Paulo,2022-09-15,False
-873,Cliente 873,cliente873@exemplo.com,São Paulo,2022-12-27,False
-433,Cliente 433,cliente433@exemplo.com,São Paulo,2022-11-20,False
-380,Cliente 380,cliente380@exemplo.com,São Paulo,2023-05-17,False
-889,Cliente 889,cliente889@exemplo.com,São Paulo,2022-09-02,False
-811,Cliente 811,cliente811@exemplo.com,São Paulo,2022-10-17,False
-520,Cliente 520,cliente520@exemplo.com,São Paulo,2023-12-26,False
-816,Cliente 816,cliente816@exemplo.com,São Paulo,2022-10-12,False
-113,Cliente 113,cliente113@exemplo.com,São Paulo,2023-07-27,False
-253,Cliente 253,cliente253@exemplo.com,São Paulo,2022-02-25,False
-121,Cliente 121,cliente121@exemplo.com,São Paulo,2023-03-22,False
-397,Cliente 397,cliente397@exemplo.com,São Paulo,2023-01-10,False
-746,Cliente 746,cliente746@exemplo.com,São Paulo,2022-07-14,False
-525,Cliente 525,cliente525@exemplo.com,São Paulo,2023-03-29,False
-189,Cliente 189,cliente189@exemplo.com,São Paulo,2022-08-16,False
-315,Cliente 315,cliente315@exemplo.com,São Paulo,2023-01-09,False
-161,Cliente 161,cliente161@exemplo.com,São Paulo,2022-06-03,False
-442,Cliente 442,cliente442@exemplo.com,São Paulo,2023-05-14,False
-698,Cliente 698,cliente698@exemplo.com,São Paulo,2022-05-20,False
-955,Cliente 955,cliente955@exemplo.com,São Paulo,2024-02-26,False
-598,Cliente 598,cliente598@exemplo.com,São Paulo,2024-05-02,False
-720,Cliente 720,cliente720@exemplo.com,São Paulo,2024-05-16,False
-341,Cliente 341,cliente341@exemplo.com,São Paulo,2024-02-05,False
-160,Cliente 160,cliente160@exemplo.com,São Paulo,2022-01-09,False
-408,Cliente 408,cliente408@exemplo.com,São Paulo,2022-06-06,False
-350,Cliente 350,cliente350@exemplo.com,São Paulo,2023-03-29,False
-149,Cliente 149,cliente149@exemplo.com,São Paulo,2022-07-29,False
-951,Cliente 951,cliente951@exemplo.com,São Paulo,2022-04-23,False
-96,Cliente 96,cliente96@exemplo.com,São Paulo,2022-04-29,False
-462,Cliente 462,cliente462@exemplo.com,São Paulo,2023-11-08,False
-596,Cliente 596,cliente596@exemplo.com,São Paulo,2023-07-13,False
-185,Cliente 185,cliente185@exemplo.com,São Paulo,2023-06-26,False
-648,Cliente 648,cliente648@exemplo.com,São Paulo,2024-01-10,False
-557,Cliente 557,cliente557@exemplo.com,São Paulo,2023-03-05,False
-992,Cliente 992,cliente992@exemplo.com,São Paulo,2022-06-05,False
-187,Cliente 187,cliente187@exemplo.com,São Paulo,2023-07-03,False
-467,Cliente 467,cliente467@exemplo.com,São Paulo,2023-04-11,False
-518,Cliente 518,cliente518@exemplo.com,São Paulo,2023-03-28,False
-88,Cliente 88,cliente88@exemplo.com,São Paulo,2023-09-14,False
-986,Cliente 986,cliente986@exemplo.com,São Paulo,2024-04-06,False
-193,Cliente 193,cliente193@exemplo.com,São Paulo,2023-01-30,False
-745,Cliente 745,cliente745@exemplo.com,São Paulo,2022-01-04,False
-360,Cliente 360,cliente360@exemplo.com,São Paulo,2023-06-02,False
-471,Cliente 471,cliente471@exemplo.com,São Paulo,2023-10-11,False
-443,Cliente 443,cliente443@exemplo.com,São Paulo,2023-07-18,False
-324,Cliente 324,cliente324@exemplo.com,São Paulo,2022-03-20,False
-988,Cliente 988,cliente988@exemplo.com,São Paulo,2024-04-11,False
-588,Cliente 588,cliente588@exemplo.com,São Paulo,2022-10-20,False
-453,Cliente 453,cliente453@exemplo.com,São Paulo,2024-01-29,False
-652,Cliente 652,cliente652@exemplo.com,São Paulo,2022-07-27,False
-77,Cliente 77,cliente77@exemplo.com,São Paulo,2022-06-09,False
-352,Cliente 352,cliente352@exemplo.com,São Paulo,2022-01-23,False
-59,Cliente 59,cliente59@exemplo.com,São Paulo,2022-01-23,False
-784,Cliente 784,cliente784@exemplo.com,São Paulo,2022-03-27,False
-982,Cliente 982,cliente982@exemplo.com,São Paulo,2024-01-16,False
-145,Cliente 145,cliente145@exemplo.com,São Paulo,2022-01-29,False
-724,Cliente 724,cliente724@exemplo.com,São Paulo,2022-01-09,False
-55,Cliente 55,cliente55@exemplo.com,São Paulo,2022-04-05,False
-307,Cliente 307,cliente307@exemplo.com,São Paulo,2023-08-28,False
-332,Cliente 332,cliente332@exemplo.com,São Paulo,2023-01-15,False
-693,Cliente 693,cliente693@exemplo.com,São Paulo,2022-02-03,False
-381,Cliente 381,cliente381@exemplo.com,São Paulo,2023-04-26,False
-287,Cliente 287,cliente287@exemplo.com,São Paulo,2022-09-19,False
-427,Cliente 427,cliente427@exemplo.com,São Paulo,2022-03-23,False
-954,Cliente 954,cliente954@exemplo.com,São Paulo,2022-01-23,False
-209,Cliente 209,cliente209@exemplo.com,São Paulo,2024-05-23,False
-965,Cliente 965,cliente965@exemplo.com,São Paulo,2024-05-11,False
-314,Cliente 314,cliente314@exemplo.com,São Paulo,2022-09-18,False
-582,Cliente 582,cliente582@exemplo.com,São Paulo,2023-11-30,False
-61,Cliente 61,cliente61@exemplo.com,São Paulo,2023-10-06,False
-883,Cliente 883,cliente883@exemplo.com,São Paulo,2024-02-07,False
-713,Cliente 713,cliente713@exemplo.com,São Paulo,2022-12-22,False
-255,Cliente 255,cliente255@exemplo.com,São Paulo,2024-05-24,False
-832,Cliente 832,cliente832@exemplo.com,São Paulo,2023-05-02,False
-870,Cliente 870,cliente870@exemplo.com,São Paulo,2022-03-25,False
-740,Cliente 740,cliente740@exemplo.com,São Paulo,2023-04-19,False
-632,Cliente 632,cliente632@exemplo.com,São Paulo,2023-09-05,False
-958,Cliente 958,cliente958@exemplo.com,São Paulo,2023-07-09,False
-570,Cliente 570,cliente570@exemplo.com,São Paulo,2023-09-11,False
-733,Cliente 733,cliente733@exemplo.com,São Paulo,2022-08-01,False
 506,Cliente 506,cliente506@exemplo.com,São Paulo,2022-10-04,False
-478,Cliente 478,cliente478@exemplo.com,São Paulo,2022-06-06,False
-996,Cliente 996,cliente996@exemplo.com,São Paulo,2023-09-19,False
-482,Cliente 482,cliente482@exemplo.com,São Paulo,2022-09-06,False
-983,Cliente 983,cliente983@exemplo.com,São Paulo,2022-11-25,False
-278,Cliente 278,cliente278@exemplo.com,São Paulo,2023-11-10,False
-270,Cliente 270,cliente270@exemplo.com,São Paulo,2022-11-15,False
-555,Cliente 555,cliente555@exemplo.com,São Paulo,2024-02-25,False
-117,Cliente 117,cliente117@exemplo.com,São Paulo,2022-01-03,False
-115,Cliente 115,cliente115@exemplo.com,São Paulo,2024-06-05,False
-841,Cliente 841,cliente841@exemplo.com,São Paulo,2022-11-19,False
-435,Cliente 435,cliente435@exemplo.com,São Paulo,2022-12-19,False
-76,Cliente 76,cliente76@exemplo.com,São Paulo,2023-03-24,False
-682,Cliente 682,cliente682@exemplo.com,São Paulo,2022-09-11,False
-527,Cliente 527,cliente527@exemplo.com,São Paulo,2022-06-30,False
-924,Cliente 924,cliente924@exemplo.com,São Paulo,2022-05-01,False
-970,Cliente 970,cliente970@exemplo.com,São Paulo,2023-12-23,False
-80,Cliente 80,cliente80@exemplo.com,São Paulo,2022-05-19,False
-723,Cliente 723,cliente723@exemplo.com,São Paulo,2022-07-25,False
-150,Cliente 150,cliente150@exemplo.com,São Paulo,2024-05-01,False
-120,Cliente 120,cliente120@exemplo.com,São Paulo,2022-06-12,False
-586,Cliente 586,cliente586@exemplo.com,São Paulo,2023-08-14,False
-838,Cliente 838,cliente838@exemplo.com,São Paulo,2023-12-25,False
-305,Cliente 305,cliente305@exemplo.com,São Paulo,2023-08-09,False
-834,Cliente 834,cliente834@exemplo.com,São Paulo,2022-04-10,False
-62,Cliente 62,cliente62@exemplo.com,São Paulo,2022-09-07,False
-173,Cliente 173,cliente173@exemplo.com,São Paulo,2022-04-23,False
-644,Cliente 644,cliente644@exemplo.com,São Paulo,2022-07-06,False
-519,Cliente 519,cliente519@exemplo.com,São Paulo,2024-02-27,False
-327,Cliente 327,cliente327@exemplo.com,São Paulo,2023-07-22,False
-692,Cliente 692,cliente692@exemplo.com,São Paulo,2023-08-19,False
-603,Cliente 603,cliente603@exemplo.com,São Paulo,2023-12-24,False
-33,Cliente 33,cliente33@exemplo.com,São Paulo,2022-06-04,False
-847,Cliente 847,cliente847@exemplo.com,São Paulo,2024-01-20,False
-30,Cliente 30,cliente30@exemplo.com,São Paulo,2022-06-08,False
-154,Cliente 154,cliente154@exemplo.com,São Paulo,2024-03-02,False
-554,Cliente 554,cliente554@exemplo.com,São Paulo,2022-03-30,False
-311,Cliente 311,cliente311@exemplo.com,São Paulo,2022-05-25,False
-83,Cliente 83,cliente83@exemplo.com,São Paulo,2022-10-11,False
-383,Cliente 383,cliente383@exemplo.com,São Paulo,2023-02-12,False
-20,Cliente 20,cliente20@exemplo.com,São Paulo,2022-11-04,False
-717,Cliente 717,cliente717@exemplo.com,São Paulo,2022-03-25,False
-730,Cliente 730,cliente730@exemplo.com,São Paulo,2022-09-21,False
-398,Cliente 398,cliente398@exemplo.com,São Paulo,2023-05-08,False
-577,Cliente 577,cliente577@exemplo.com,São Paulo,2024-01-13,False
-549,Cliente 549,cliente549@exemplo.com,São Paulo,2024-05-26,False
-756,Cliente 756,cliente756@exemplo.com,São Paulo,2022-01-21,False
-556,Cliente 556,cliente556@exemplo.com,São Paulo,2024-06-04,False
-233,Cliente 233,cliente233@exemplo.com,São Paulo,2023-03-15,False
-247,Cliente 247,cliente247@exemplo.com,São Paulo,2022-05-22,False
-536,Cliente 536,cliente536@exemplo.com,São Paulo,2023-01-29,False
-65,Cliente 65,cliente65@exemplo.com,São Paulo,2023-08-09,False
-521,Cliente 521,cliente521@exemplo.com,São Paulo,2024-03-02,False
-41,Cliente 41,cliente41@exemplo.com,São Paulo,2022-07-03,False
-621,Cliente 621,cliente621@exemplo.com,São Paulo,2022-05-15,False
-946,Cliente 946,cliente946@exemplo.com,São Paulo,2023-02-10,False
-204,Cliente 204,cliente204@exemplo.com,São Paulo,2023-03-19,False
-126,Cliente 126,cliente126@exemplo.com,São Paulo,2023-01-17,False
-869,Cliente 869,cliente869@exemplo.com,São Paulo,2022-05-17,False
-781,Cliente 781,cliente781@exemplo.com,São Paulo,2023-05-25,False
-72,Cliente 72,cliente72@exemplo.com,São Paulo,2022-08-05,False
-705,Cliente 705,cliente705@exemplo.com,São Paulo,2024-01-05,False
-175,Cliente 175,cliente175@exemplo.com,São Paulo,2022-03-23,False
-830,Cliente 830,cliente830@exemplo.com,São Paulo,2023-07-03,False
-812,Cliente 812,cliente812@exemplo.com,São Paulo,2023-12-31,False
-400,Cliente 400,cliente400@exemplo.com,São Paulo,2024-04-04,False
-837,Cliente 837,cliente837@exemplo.com,São Paulo,2022-10-08,False
-439,Cliente 439,cliente439@exemplo.com,São Paulo,2022-12-24,False
-21,Cliente 21,cliente21@exemplo.com,São Paulo,2023-08-14,False
-180,Cliente 180,cliente180@exemplo.com,São Paulo,2022-06-01,False
-477,Cliente 477,cliente477@exemplo.com,São Paulo,2022-05-22,False
-839,Cliente 839,cliente839@exemplo.com,São Paulo,2023-04-22,False
-108,Cliente 108,cliente108@exemplo.com,São Paulo,2023-03-15,False
-868,Cliente 868,cliente868@exemplo.com,São Paulo,2022-11-01,False
-373,Cliente 373,cliente373@exemplo.com,São Paulo,2024-02-14,False
-764,Cliente 764,cliente764@exemplo.com,São Paulo,2023-10-08,False
-854,Cliente 854,cliente854@exemplo.com,São Paulo,2024-05-20,False
-528,Cliente 528,cliente528@exemplo.com,São Paulo,2023-04-24,False
-579,Cliente 579,cliente579@exemplo.com,São Paulo,2023-05-29,False
-779,Cliente 779,cliente779@exemplo.com,São Paulo,2022-11-09,False
-592,Cliente 592,cliente592@exemplo.com,São Paulo,2023-04-01,False
-714,Cliente 714,cliente714@exemplo.com,São Paulo,2022-09-10,False
-379,Cliente 379,cliente379@exemplo.com,São Paulo,2023-07-16,False
-354,Cliente 354,cliente354@exemplo.com,São Paulo,2022-01-10,False
-404,Cliente 404,cliente404@exemplo.com,São Paulo,2022-06-18,False
-330,Cliente 330,cliente330@exemplo.com,São Paulo,2022-04-14,False
-301,Cliente 301,cliente301@exemplo.com,São Paulo,2023-06-13,False
-174,Cliente 174,cliente174@exemplo.com,São Paulo,2023-10-06,False
-952,Cliente 952,cliente952@exemplo.com,São Paulo,2023-11-20,False
-964,Cliente 964,cliente964@exemplo.com,São Paulo,2024-05-14,False
-630,Cliente 630,cliente630@exemplo.com,São Paulo,2022-04-07,False
-317,Cliente 317,cliente317@exemplo.com,São Paulo,2022-04-01,False
-111,Cliente 111,cliente111@exemplo.com,São Paulo,2023-05-14,False
-639,Cliente 639,cliente639@exemplo.com,São Paulo,2023-05-04,False
-691,Cliente 691,cliente691@exemplo.com,São Paulo,2023-03-11,False
-302,Cliente 302,cliente302@exemplo.com,São Paulo,2023-12-13,False
-445,Cliente 445,cliente445@exemplo.com,São Paulo,2022-02-13,False
-66,Cliente 66,cliente66@exemplo.com,São Paulo,2022-07-06,False
-959,Cliente 959,cliente959@exemplo.com,São Paulo,2022-10-10,False
-468,Cliente 468,,Cuiabá,2023-03-20,True
-804,Cliente 804,,Cuiabá,2022-10-09,True
-980,Cliente 980,,Cuiabá,2022-03-09,True
-884,Cliente 884,,Cuiabá,2023-03-25,True
-912,Cliente 912,,Cuiabá,2022-09-19,True
+507,Cliente 507,cliente507@exemplo.com,Cuiabá,2023-12-27,False
+508,Cliente 508,cliente508@exemplo.com,Recife,2022-09-17,False
+509,Cliente 509,cliente509@exemplo.com,Manaus,2022-03-10,False
+510,Cliente 510,cliente510@exemplo.com,Curitiba,2023-11-21,False
+511,Cliente 511,cliente511@exemplo.com,Cuiabá,2023-07-31,False
+512,Cliente 512,cliente512@exemplo.com,Recife,2023-05-05,False
+513,Cliente 513,cliente513@exemplo.com,Recife,2023-06-08,False
+514,Cliente 514,cliente514@exemplo.com,Recife,2023-10-21,False
+515,Cliente 515,cliente515@exemplo.com,Cuiabá,2022-08-01,False
+516,Cliente 516,cliente516@exemplo.com,Cuiabá,2024-03-26,False
 517,Cliente 517,,Cuiabá,2024-05-01,True
-246,Cliente 246,,Cuiabá,2023-05-30,True
-817,Cliente 817,,Curitiba,2022-09-13,True
-27,Cliente 27,,Curitiba,2022-05-03,True
-583,Cliente 583,,Curitiba,2023-03-15,True
-131,Cliente 131,,Curitiba,2022-04-24,True
-574,Cliente 574,,Curitiba,2024-02-24,True
-38,Cliente 38,,Curitiba,2024-03-02,True
-551,Cliente 551,,Manaus,2023-06-12,True
-139,Cliente 139,,Manaus,2022-05-23,True
-876,Cliente 876,,Manaus,2023-09-20,True
-222,Cliente 222,,Manaus,2024-04-19,True
-495,Cliente 495,,Manaus,2022-08-26,True
+518,Cliente 518,cliente518@exemplo.com,São Paulo,2023-03-28,False
+519,Cliente 519,cliente519@exemplo.com,São Paulo,2024-02-27,False
+520,Cliente 520,cliente520@exemplo.com,São Paulo,2023-12-26,False
+521,Cliente 521,cliente521@exemplo.com,São Paulo,2024-03-02,False
+522,Cliente 522,cliente522@exemplo.com,Recife,2022-11-16,False
+523,Cliente 523,cliente523@exemplo.com,Curitiba,2023-08-21,False
+524,Cliente 524,cliente524@exemplo.com,Recife,2024-01-28,False
+525,Cliente 525,cliente525@exemplo.com,São Paulo,2023-03-29,False
+526,Cliente 526,cliente526@exemplo.com,Manaus,2023-11-25,False
+527,Cliente 527,cliente527@exemplo.com,São Paulo,2022-06-30,False
+528,Cliente 528,cliente528@exemplo.com,São Paulo,2023-04-24,False
+529,Cliente 529,cliente529@exemplo.com,Curitiba,2024-05-23,False
+530,Cliente 530,cliente530@exemplo.com,Manaus,2024-04-10,False
+531,Cliente 531,cliente531@exemplo.com,Manaus,2022-09-05,False
+532,Cliente 532,cliente532@exemplo.com,Manaus,2023-03-20,False
+533,Cliente 533,cliente533@exemplo.com,Recife,2022-09-06,False
+534,Cliente 534,cliente534@exemplo.com,Manaus,2022-01-22,False
+535,Cliente 535,cliente535@exemplo.com,Curitiba,2024-04-26,False
+536,Cliente 536,cliente536@exemplo.com,São Paulo,2023-01-29,False
+537,Cliente 537,cliente537@exemplo.com,Recife,2022-10-06,False
+538,Cliente 538,cliente538@exemplo.com,Cuiabá,2024-02-24,False
 539,Cliente 539,,Manaus,2022-02-13,True
+540,Cliente 540,cliente540@exemplo.com,São Paulo,2023-07-22,False
+541,Cliente 541,cliente541@exemplo.com,Recife,2022-05-04,False
+542,Cliente 542,cliente542@exemplo.com,Recife,2022-05-01,False
+543,Cliente 543,cliente543@exemplo.com,Recife,2022-11-08,False
+544,Cliente 544,cliente544@exemplo.com,Recife,2022-06-11,False
+545,Cliente 545,cliente545@exemplo.com,Cuiabá,2022-12-17,False
+546,Cliente 546,cliente546@exemplo.com,Cuiabá,2022-03-16,False
+547,Cliente 547,cliente547@exemplo.com,Manaus,2024-01-04,False
+548,Cliente 548,cliente548@exemplo.com,Manaus,2023-08-06,False
+549,Cliente 549,cliente549@exemplo.com,São Paulo,2024-05-26,False
+550,Cliente 550,cliente550@exemplo.com,Manaus,2024-04-27,False
+551,Cliente 551,,Manaus,2023-06-12,True
+552,Cliente 552,cliente552@exemplo.com,Curitiba,2023-07-07,False
+553,Cliente 553,cliente553@exemplo.com,Recife,2024-01-01,False
+554,Cliente 554,cliente554@exemplo.com,São Paulo,2022-03-30,False
+555,Cliente 555,cliente555@exemplo.com,São Paulo,2024-02-25,False
+556,Cliente 556,cliente556@exemplo.com,São Paulo,2024-06-04,False
+557,Cliente 557,cliente557@exemplo.com,São Paulo,2023-03-05,False
+558,Cliente 558,cliente558@exemplo.com,Recife,2023-12-18,False
+559,Cliente 559,cliente559@exemplo.com,Manaus,2023-09-11,False
+560,Cliente 560,cliente560@exemplo.com,Curitiba,2023-02-16,False
+561,Cliente 561,cliente561@exemplo.com,Recife,2022-11-10,False
+562,Cliente 562,cliente562@exemplo.com,Manaus,2022-02-24,False
+563,Cliente 563,cliente563@exemplo.com,Curitiba,2022-05-10,False
+564,Cliente 564,cliente564@exemplo.com,Cuiabá,2023-07-17,False
+565,Cliente 565,cliente565@exemplo.com,Curitiba,2022-10-23,False
+566,Cliente 566,cliente566@exemplo.com,Cuiabá,2023-03-08,False
+567,Cliente 567,cliente567@exemplo.com,Recife,2023-12-06,False
+568,Cliente 568,cliente568@exemplo.com,Cuiabá,2022-10-13,False
+569,Cliente 569,cliente569@exemplo.com,Cuiabá,2022-01-19,False
+570,Cliente 570,cliente570@exemplo.com,São Paulo,2023-09-11,False
+571,Cliente 571,cliente571@exemplo.com,Manaus,2023-07-12,False
+572,Cliente 572,cliente572@exemplo.com,Curitiba,2022-09-11,False
+573,Cliente 573,cliente573@exemplo.com,Recife,2022-11-22,False
+574,Cliente 574,,Curitiba,2024-02-24,True
+575,Cliente 575,cliente575@exemplo.com,Manaus,2024-05-18,False
+576,Cliente 576,cliente576@exemplo.com,Recife,2022-12-08,False
+577,Cliente 577,cliente577@exemplo.com,São Paulo,2024-01-13,False
+578,Cliente 578,cliente578@exemplo.com,Manaus,2024-06-02,False
+579,Cliente 579,cliente579@exemplo.com,São Paulo,2023-05-29,False
+580,Cliente 580,cliente580@exemplo.com,Manaus,2022-07-06,False
+581,Cliente 581,cliente581@exemplo.com,Recife,2024-01-31,False
+582,Cliente 582,cliente582@exemplo.com,São Paulo,2023-11-30,False
+583,Cliente 583,,Curitiba,2023-03-15,True
+584,Cliente 584,cliente584@exemplo.com,Cuiabá,2022-07-09,False
+585,Cliente 585,cliente585@exemplo.com,Curitiba,2022-10-03,False
+586,Cliente 586,cliente586@exemplo.com,São Paulo,2023-08-14,False
+587,Cliente 587,cliente587@exemplo.com,Curitiba,2022-04-24,False
+588,Cliente 588,cliente588@exemplo.com,São Paulo,2022-10-20,False
+589,Cliente 589,cliente589@exemplo.com,Manaus,2024-02-11,False
+590,Cliente 590,cliente590@exemplo.com,Curitiba,2022-09-12,False
+591,Cliente 591,cliente591@exemplo.com,Manaus,2022-12-20,False
+592,Cliente 592,cliente592@exemplo.com,São Paulo,2023-04-01,False
+593,Cliente 593,cliente593@exemplo.com,Recife,2024-03-08,False
+594,Cliente 594,cliente594@exemplo.com,Cuiabá,2022-02-08,False
+595,Cliente 595,cliente595@exemplo.com,Curitiba,2023-07-28,False
+596,Cliente 596,cliente596@exemplo.com,São Paulo,2023-07-13,False
+597,Cliente 597,cliente597@exemplo.com,Curitiba,2022-03-05,False
+598,Cliente 598,cliente598@exemplo.com,São Paulo,2024-05-02,False
+599,Cliente 599,cliente599@exemplo.com,Recife,2024-05-01,False
+600,Cliente 600,cliente600@exemplo.com,Recife,2023-09-22,False
+601,Cliente 601,cliente601@exemplo.com,Cuiabá,2022-04-09,False
 602,Cliente 602,,Manaus,2023-03-06,True
-264,Cliente 264,,Manaus,2022-05-29,True
-918,Cliente 918,,Manaus,2023-04-02,True
+603,Cliente 603,cliente603@exemplo.com,São Paulo,2023-12-24,False
+604,Cliente 604,cliente604@exemplo.com,Manaus,2023-05-12,False
+605,Cliente 605,cliente605@exemplo.com,Recife,2022-08-04,False
+606,Cliente 606,cliente606@exemplo.com,Recife,2023-12-07,False
+607,Cliente 607,cliente607@exemplo.com,Curitiba,2023-03-23,False
+608,Cliente 608,cliente608@exemplo.com,Cuiabá,2024-04-08,False
+609,Cliente 609,cliente609@exemplo.com,Manaus,2022-10-16,False
+610,Cliente 610,cliente610@exemplo.com,Manaus,2023-11-18,False
+611,Cliente 611,cliente611@exemplo.com,Recife,2023-02-26,False
+612,Cliente 612,cliente612@exemplo.com,Manaus,2024-05-03,False
+613,Cliente 613,cliente613@exemplo.com,Manaus,2023-01-17,False
+614,Cliente 614,cliente614@exemplo.com,Manaus,2023-05-16,False
+615,Cliente 615,cliente615@exemplo.com,Manaus,2024-01-31,False
+616,Cliente 616,cliente616@exemplo.com,Manaus,2022-02-26,False
+617,Cliente 617,cliente617@exemplo.com,Cuiabá,2023-03-09,False
+618,Cliente 618,cliente618@exemplo.com,Cuiabá,2023-07-07,False
+619,Cliente 619,cliente619@exemplo.com,Cuiabá,2022-12-23,False
+620,Cliente 620,cliente620@exemplo.com,Manaus,2024-03-19,False
+621,Cliente 621,cliente621@exemplo.com,São Paulo,2022-05-15,False
+622,Cliente 622,cliente622@exemplo.com,Curitiba,2024-04-06,False
+623,Cliente 623,cliente623@exemplo.com,Curitiba,2022-10-15,False
+624,Cliente 624,cliente624@exemplo.com,Recife,2024-05-17,False
+625,Cliente 625,cliente625@exemplo.com,Curitiba,2024-02-06,False
+626,Cliente 626,cliente626@exemplo.com,Manaus,2022-06-01,False
+627,Cliente 627,cliente627@exemplo.com,Recife,2024-06-14,False
+628,Cliente 628,cliente628@exemplo.com,Curitiba,2023-10-07,False
+629,Cliente 629,cliente629@exemplo.com,Curitiba,2022-06-03,False
+630,Cliente 630,cliente630@exemplo.com,São Paulo,2022-04-07,False
+631,Cliente 631,cliente631@exemplo.com,Manaus,2022-08-24,False
+632,Cliente 632,cliente632@exemplo.com,São Paulo,2023-09-05,False
+633,Cliente 633,cliente633@exemplo.com,Cuiabá,2023-01-16,False
+634,Cliente 634,cliente634@exemplo.com,Manaus,2024-05-07,False
+635,Cliente 635,cliente635@exemplo.com,Cuiabá,2024-05-14,False
+636,Cliente 636,cliente636@exemplo.com,Curitiba,2022-11-25,False
+637,Cliente 637,cliente637@exemplo.com,São Paulo,2023-06-17,False
+638,Cliente 638,cliente638@exemplo.com,Curitiba,2023-03-09,False
+639,Cliente 639,cliente639@exemplo.com,São Paulo,2023-05-04,False
+640,Cliente 640,cliente640@exemplo.com,Curitiba,2022-03-13,False
+641,Cliente 641,cliente641@exemplo.com,Manaus,2023-06-20,False
+642,Cliente 642,cliente642@exemplo.com,Cuiabá,2024-01-08,False
+643,Cliente 643,cliente643@exemplo.com,Cuiabá,2022-05-31,False
+644,Cliente 644,cliente644@exemplo.com,São Paulo,2022-07-06,False
+645,Cliente 645,cliente645@exemplo.com,Curitiba,2024-03-19,False
+646,Cliente 646,cliente646@exemplo.com,Cuiabá,2022-04-17,False
+647,Cliente 647,cliente647@exemplo.com,Cuiabá,2023-10-21,False
+648,Cliente 648,cliente648@exemplo.com,São Paulo,2024-01-10,False
+649,Cliente 649,cliente649@exemplo.com,Cuiabá,2022-08-07,False
+650,Cliente 650,cliente650@exemplo.com,Curitiba,2023-07-29,False
+651,Cliente 651,cliente651@exemplo.com,Recife,2022-12-03,False
+652,Cliente 652,cliente652@exemplo.com,São Paulo,2022-07-27,False
+653,Cliente 653,cliente653@exemplo.com,São Paulo,2023-06-28,False
+654,Cliente 654,cliente654@exemplo.com,Recife,2024-04-18,False
+655,Cliente 655,cliente655@exemplo.com,São Paulo,2023-03-21,False
+656,Cliente 656,cliente656@exemplo.com,Recife,2023-02-13,False
+657,Cliente 657,cliente657@exemplo.com,Recife,2023-09-09,False
+658,Cliente 658,cliente658@exemplo.com,Recife,2023-04-06,False
+659,Cliente 659,cliente659@exemplo.com,Curitiba,2023-10-31,False
+660,Cliente 660,cliente660@exemplo.com,Curitiba,2022-03-21,False
+661,Cliente 661,cliente661@exemplo.com,Curitiba,2022-10-20,False
+662,Cliente 662,cliente662@exemplo.com,Manaus,2024-02-01,False
+663,Cliente 663,cliente663@exemplo.com,Recife,2022-04-04,False
+664,Cliente 664,cliente664@exemplo.com,Curitiba,2023-11-16,False
+665,Cliente 665,cliente665@exemplo.com,Curitiba,2023-09-06,False
+666,Cliente 666,cliente666@exemplo.com,Cuiabá,2023-01-26,False
+667,Cliente 667,cliente667@exemplo.com,Manaus,2022-06-28,False
+668,Cliente 668,cliente668@exemplo.com,Manaus,2023-12-07,False
+669,Cliente 669,cliente669@exemplo.com,Manaus,2022-04-22,False
+670,Cliente 670,cliente670@exemplo.com,Recife,2023-02-04,False
+671,Cliente 671,cliente671@exemplo.com,Curitiba,2022-03-24,False
+672,Cliente 672,cliente672@exemplo.com,Manaus,2024-03-24,False
+673,Cliente 673,cliente673@exemplo.com,Recife,2023-04-10,False
+674,Cliente 674,cliente674@exemplo.com,Recife,2022-06-22,False
 675,Cliente 675,,Manaus,2024-02-08,True
-385,Cliente 385,,Recife,2023-06-21,True
-438,Cliente 438,,Recife,2024-01-19,True
-225,Cliente 225,,Recife,2024-05-29,True
-217,Cliente 217,,São Paulo,2023-02-23,True
+676,Cliente 676,cliente676@exemplo.com,Cuiabá,2022-05-06,False
+677,Cliente 677,cliente677@exemplo.com,Cuiabá,2023-01-28,False
+678,Cliente 678,cliente678@exemplo.com,Manaus,2023-01-30,False
+679,Cliente 679,cliente679@exemplo.com,Curitiba,2023-07-01,False
+680,Cliente 680,cliente680@exemplo.com,Manaus,2022-12-18,False
+681,Cliente 681,cliente681@exemplo.com,Manaus,2022-05-13,False
+682,Cliente 682,cliente682@exemplo.com,São Paulo,2022-09-11,False
+683,Cliente 683,cliente683@exemplo.com,Curitiba,2023-04-28,False
+684,Cliente 684,cliente684@exemplo.com,Manaus,2022-06-22,False
+685,Cliente 685,cliente685@exemplo.com,Recife,2023-11-28,False
+686,Cliente 686,cliente686@exemplo.com,Cuiabá,2023-07-09,False
+687,Cliente 687,cliente687@exemplo.com,Recife,2023-05-12,False
+688,Cliente 688,cliente688@exemplo.com,Recife,2022-09-05,False
+689,Cliente 689,cliente689@exemplo.com,Manaus,2022-04-24,False
+690,Cliente 690,cliente690@exemplo.com,Recife,2024-01-21,False
+691,Cliente 691,cliente691@exemplo.com,São Paulo,2023-03-11,False
+692,Cliente 692,cliente692@exemplo.com,São Paulo,2023-08-19,False
+693,Cliente 693,cliente693@exemplo.com,São Paulo,2022-02-03,False
+694,Cliente 694,cliente694@exemplo.com,Recife,2023-03-17,False
+695,Cliente 695,cliente695@exemplo.com,Cuiabá,2024-02-10,False
+696,Cliente 696,cliente696@exemplo.com,Curitiba,2022-02-06,False
+697,Cliente 697,cliente697@exemplo.com,Manaus,2022-09-22,False
+698,Cliente 698,cliente698@exemplo.com,São Paulo,2022-05-20,False
+699,Cliente 699,cliente699@exemplo.com,Curitiba,2023-12-17,False
+700,Cliente 700,cliente700@exemplo.com,Recife,2023-10-22,False
+701,Cliente 701,cliente701@exemplo.com,Cuiabá,2024-03-06,False
+702,Cliente 702,cliente702@exemplo.com,Manaus,2022-09-06,False
+703,Cliente 703,cliente703@exemplo.com,Manaus,2022-03-16,False
+704,Cliente 704,cliente704@exemplo.com,Curitiba,2023-11-16,False
+705,Cliente 705,cliente705@exemplo.com,São Paulo,2024-01-05,False
+706,Cliente 706,cliente706@exemplo.com,Curitiba,2023-10-14,False
+707,Cliente 707,cliente707@exemplo.com,Recife,2022-02-14,False
+708,Cliente 708,cliente708@exemplo.com,Manaus,2023-06-11,False
+709,Cliente 709,cliente709@exemplo.com,Manaus,2022-01-22,False
+710,Cliente 710,cliente710@exemplo.com,Curitiba,2023-10-08,False
+711,Cliente 711,cliente711@exemplo.com,Cuiabá,2023-12-11,False
+712,Cliente 712,cliente712@exemplo.com,Cuiabá,2023-02-22,False
+713,Cliente 713,cliente713@exemplo.com,São Paulo,2022-12-22,False
+714,Cliente 714,cliente714@exemplo.com,São Paulo,2022-09-10,False
+715,Cliente 715,cliente715@exemplo.com,Cuiabá,2024-05-04,False
+716,Cliente 716,cliente716@exemplo.com,Manaus,2023-02-22,False
+717,Cliente 717,cliente717@exemplo.com,São Paulo,2022-03-25,False
+718,Cliente 718,cliente718@exemplo.com,Cuiabá,2022-09-29,False
+719,Cliente 719,cliente719@exemplo.com,Curitiba,2022-10-13,False
+720,Cliente 720,cliente720@exemplo.com,São Paulo,2024-05-16,False
+721,Cliente 721,cliente721@exemplo.com,Manaus,2024-04-07,False
+722,Cliente 722,cliente722@exemplo.com,Recife,2024-05-20,False
+723,Cliente 723,cliente723@exemplo.com,São Paulo,2022-07-25,False
+724,Cliente 724,cliente724@exemplo.com,São Paulo,2022-01-09,False
+725,Cliente 725,cliente725@exemplo.com,Manaus,2022-08-06,False
+726,Cliente 726,cliente726@exemplo.com,Manaus,2023-05-28,False
+727,Cliente 727,cliente727@exemplo.com,Recife,2023-11-27,False
+728,Cliente 728,cliente728@exemplo.com,Curitiba,2023-09-03,False
+729,Cliente 729,cliente729@exemplo.com,Recife,2023-06-28,False
+730,Cliente 730,cliente730@exemplo.com,São Paulo,2022-09-21,False
+731,Cliente 731,cliente731@exemplo.com,Manaus,2022-03-19,False
+732,Cliente 732,cliente732@exemplo.com,São Paulo,2023-11-26,False
+733,Cliente 733,cliente733@exemplo.com,São Paulo,2022-08-01,False
+734,Cliente 734,cliente734@exemplo.com,Recife,2022-10-21,False
+735,Cliente 735,cliente735@exemplo.com,Curitiba,2022-07-30,False
+736,Cliente 736,cliente736@exemplo.com,Curitiba,2023-09-02,False
+737,Cliente 737,cliente737@exemplo.com,Curitiba,2023-05-14,False
+738,Cliente 738,cliente738@exemplo.com,Recife,2022-10-21,False
+739,Cliente 739,cliente739@exemplo.com,Cuiabá,2023-08-03,False
+740,Cliente 740,cliente740@exemplo.com,São Paulo,2023-04-19,False
+741,Cliente 741,cliente741@exemplo.com,Curitiba,2022-07-15,False
+742,Cliente 742,cliente742@exemplo.com,Manaus,2023-10-04,False
+743,Cliente 743,cliente743@exemplo.com,Curitiba,2023-03-22,False
+744,Cliente 744,cliente744@exemplo.com,Cuiabá,2023-11-11,False
+745,Cliente 745,cliente745@exemplo.com,São Paulo,2022-01-04,False
+746,Cliente 746,cliente746@exemplo.com,São Paulo,2022-07-14,False
+747,Cliente 747,cliente747@exemplo.com,Cuiabá,2023-09-08,False
+748,Cliente 748,cliente748@exemplo.com,Cuiabá,2023-05-27,False
+749,Cliente 749,cliente749@exemplo.com,Recife,2023-01-01,False
+750,Cliente 750,cliente750@exemplo.com,Recife,2022-03-14,False
+751,Cliente 751,cliente751@exemplo.com,Recife,2023-12-22,False
+752,Cliente 752,cliente752@exemplo.com,Curitiba,2022-03-02,False
+753,Cliente 753,cliente753@exemplo.com,Manaus,2023-01-07,False
+754,Cliente 754,cliente754@exemplo.com,Curitiba,2022-09-20,False
+755,Cliente 755,cliente755@exemplo.com,Cuiabá,2022-09-19,False
+756,Cliente 756,cliente756@exemplo.com,São Paulo,2022-01-21,False
+757,Cliente 757,cliente757@exemplo.com,Curitiba,2022-07-20,False
+758,Cliente 758,cliente758@exemplo.com,Curitiba,2023-06-12,False
+759,Cliente 759,cliente759@exemplo.com,Curitiba,2022-11-20,False
+760,Cliente 760,cliente760@exemplo.com,Cuiabá,2023-07-13,False
+761,Cliente 761,cliente761@exemplo.com,Curitiba,2022-05-01,False
+762,Cliente 762,cliente762@exemplo.com,Recife,2024-03-25,False
+763,Cliente 763,cliente763@exemplo.com,Cuiabá,2022-11-26,False
+764,Cliente 764,cliente764@exemplo.com,São Paulo,2023-10-08,False
+765,Cliente 765,cliente765@exemplo.com,Recife,2022-12-14,False
+766,Cliente 766,cliente766@exemplo.com,Cuiabá,2022-06-25,False
+767,Cliente 767,cliente767@exemplo.com,Recife,2023-07-11,False
+768,Cliente 768,cliente768@exemplo.com,Recife,2022-08-28,False
+769,Cliente 769,cliente769@exemplo.com,Cuiabá,2022-07-20,False
+770,Cliente 770,cliente770@exemplo.com,Curitiba,2022-06-12,False
+771,Cliente 771,cliente771@exemplo.com,Manaus,2023-12-29,False
+772,Cliente 772,cliente772@exemplo.com,Recife,2022-02-12,False
+773,Cliente 773,cliente773@exemplo.com,Cuiabá,2022-03-18,False
+774,Cliente 774,cliente774@exemplo.com,Curitiba,2023-05-29,False
+775,Cliente 775,cliente775@exemplo.com,Manaus,2022-04-30,False
+776,Cliente 776,cliente776@exemplo.com,Curitiba,2022-08-22,False
+777,Cliente 777,cliente777@exemplo.com,Manaus,2023-03-21,False
+778,Cliente 778,cliente778@exemplo.com,Cuiabá,2023-10-21,False
+779,Cliente 779,cliente779@exemplo.com,São Paulo,2022-11-09,False
 780,Cliente 780,,São Paulo,2022-05-15,True
-828,Cliente 828,,São Paulo,2022-06-10,True
+781,Cliente 781,cliente781@exemplo.com,São Paulo,2023-05-25,False
+782,Cliente 782,cliente782@exemplo.com,Cuiabá,2024-02-06,False
+783,Cliente 783,cliente783@exemplo.com,Manaus,2022-11-18,False
+784,Cliente 784,cliente784@exemplo.com,São Paulo,2022-03-27,False
+785,Cliente 785,cliente785@exemplo.com,Curitiba,2023-10-14,False
+786,Cliente 786,cliente786@exemplo.com,Curitiba,2024-04-17,False
+787,Cliente 787,cliente787@exemplo.com,Cuiabá,2022-01-01,False
+788,Cliente 788,cliente788@exemplo.com,Curitiba,2022-12-31,False
+789,Cliente 789,cliente789@exemplo.com,Manaus,2023-10-21,False
+790,Cliente 790,cliente790@exemplo.com,Manaus,2022-04-18,False
+791,Cliente 791,cliente791@exemplo.com,Recife,2023-06-15,False
+792,Cliente 792,cliente792@exemplo.com,Manaus,2022-11-03,False
+793,Cliente 793,cliente793@exemplo.com,Cuiabá,2023-01-27,False
+794,Cliente 794,cliente794@exemplo.com,Recife,2024-05-29,False
+795,Cliente 795,cliente795@exemplo.com,Curitiba,2022-07-04,False
+796,Cliente 796,cliente796@exemplo.com,Recife,2024-01-29,False
+797,Cliente 797,cliente797@exemplo.com,Cuiabá,2023-07-11,False
+798,Cliente 798,cliente798@exemplo.com,Manaus,2023-01-09,False
+799,Cliente 799,cliente799@exemplo.com,Manaus,2022-01-25,False
+800,Cliente 800,cliente800@exemplo.com,Manaus,2024-04-10,False
+801,Cliente 801,cliente801@exemplo.com,Manaus,2022-01-20,False
+802,Cliente 802,cliente802@exemplo.com,Recife,2023-12-07,False
+803,Cliente 803,cliente803@exemplo.com,Manaus,2023-03-01,False
+804,Cliente 804,,Cuiabá,2022-10-09,True
+805,Cliente 805,cliente805@exemplo.com,Curitiba,2022-03-03,False
 806,Cliente 806,,São Paulo,2023-12-16,True
-210,Cliente 210,,São Paulo,2022-06-07,True
+807,Cliente 807,cliente807@exemplo.com,Manaus,2022-09-25,False
+808,Cliente 808,cliente808@exemplo.com,Cuiabá,2024-02-10,False
+809,Cliente 809,cliente809@exemplo.com,Curitiba,2022-02-11,False
+810,Cliente 810,cliente810@exemplo.com,Cuiabá,2022-06-02,False
+811,Cliente 811,cliente811@exemplo.com,São Paulo,2022-10-17,False
+812,Cliente 812,cliente812@exemplo.com,São Paulo,2023-12-31,False
+813,Cliente 813,cliente813@exemplo.com,Recife,2022-06-29,False
+814,Cliente 814,cliente814@exemplo.com,Manaus,2022-06-21,False
+815,Cliente 815,cliente815@exemplo.com,Cuiabá,2023-09-26,False
+816,Cliente 816,cliente816@exemplo.com,São Paulo,2022-10-12,False
+817,Cliente 817,,Curitiba,2022-09-13,True
+818,Cliente 818,cliente818@exemplo.com,Cuiabá,2024-03-20,False
+819,Cliente 819,cliente819@exemplo.com,Manaus,2022-06-17,False
+820,Cliente 820,cliente820@exemplo.com,Curitiba,2023-12-27,False
+821,Cliente 821,cliente821@exemplo.com,Curitiba,2024-02-06,False
+822,Cliente 822,cliente822@exemplo.com,Curitiba,2022-09-22,False
+823,Cliente 823,cliente823@exemplo.com,Recife,2024-03-22,False
+824,Cliente 824,cliente824@exemplo.com,São Paulo,2023-02-04,False
+825,Cliente 825,cliente825@exemplo.com,Curitiba,2023-07-08,False
+826,Cliente 826,cliente826@exemplo.com,Cuiabá,2022-04-15,False
+827,Cliente 827,cliente827@exemplo.com,Cuiabá,2022-09-06,False
+828,Cliente 828,,São Paulo,2022-06-10,True
+829,Cliente 829,cliente829@exemplo.com,Curitiba,2022-05-29,False
+830,Cliente 830,cliente830@exemplo.com,São Paulo,2023-07-03,False
+831,Cliente 831,cliente831@exemplo.com,Cuiabá,2022-08-04,False
+832,Cliente 832,cliente832@exemplo.com,São Paulo,2023-05-02,False
+833,Cliente 833,cliente833@exemplo.com,Curitiba,2023-05-05,False
+834,Cliente 834,cliente834@exemplo.com,São Paulo,2022-04-10,False
+835,Cliente 835,cliente835@exemplo.com,Curitiba,2023-08-08,False
+836,Cliente 836,cliente836@exemplo.com,Cuiabá,2022-07-09,False
+837,Cliente 837,cliente837@exemplo.com,São Paulo,2022-10-08,False
+838,Cliente 838,cliente838@exemplo.com,São Paulo,2023-12-25,False
+839,Cliente 839,cliente839@exemplo.com,São Paulo,2023-04-22,False
+840,Cliente 840,cliente840@exemplo.com,Cuiabá,2022-08-20,False
+841,Cliente 841,cliente841@exemplo.com,São Paulo,2022-11-19,False
+842,Cliente 842,cliente842@exemplo.com,Cuiabá,2022-01-14,False
+843,Cliente 843,cliente843@exemplo.com,Manaus,2023-11-01,False
+844,Cliente 844,cliente844@exemplo.com,Recife,2023-02-13,False
+845,Cliente 845,cliente845@exemplo.com,Manaus,2023-01-12,False
+846,Cliente 846,cliente846@exemplo.com,Curitiba,2022-10-08,False
+847,Cliente 847,cliente847@exemplo.com,São Paulo,2024-01-20,False
+848,Cliente 848,cliente848@exemplo.com,Curitiba,2022-08-21,False
+849,Cliente 849,cliente849@exemplo.com,Curitiba,2022-01-03,False
+850,Cliente 850,cliente850@exemplo.com,Curitiba,2023-07-17,False
+851,Cliente 851,cliente851@exemplo.com,Manaus,2023-12-11,False
+852,Cliente 852,cliente852@exemplo.com,Cuiabá,2023-12-24,False
+853,Cliente 853,cliente853@exemplo.com,Recife,2022-02-05,False
+854,Cliente 854,cliente854@exemplo.com,São Paulo,2024-05-20,False
+855,Cliente 855,cliente855@exemplo.com,Curitiba,2023-09-13,False
+856,Cliente 856,cliente856@exemplo.com,Manaus,2023-07-04,False
+857,Cliente 857,cliente857@exemplo.com,Cuiabá,2024-05-23,False
+858,Cliente 858,cliente858@exemplo.com,Manaus,2022-04-18,False
+859,Cliente 859,cliente859@exemplo.com,Curitiba,2024-03-29,False
+860,Cliente 860,cliente860@exemplo.com,Recife,2023-03-28,False
+861,Cliente 861,cliente861@exemplo.com,Recife,2022-09-25,False
+862,Cliente 862,cliente862@exemplo.com,Manaus,2022-08-17,False
+863,Cliente 863,cliente863@exemplo.com,Recife,2022-07-09,False
+864,Cliente 864,cliente864@exemplo.com,Recife,2022-02-22,False
+865,Cliente 865,cliente865@exemplo.com,Recife,2022-07-28,False
+866,Cliente 866,cliente866@exemplo.com,Cuiabá,2024-02-11,False
+867,Cliente 867,cliente867@exemplo.com,Curitiba,2023-05-10,False
+868,Cliente 868,cliente868@exemplo.com,São Paulo,2022-11-01,False
+869,Cliente 869,cliente869@exemplo.com,São Paulo,2022-05-17,False
+870,Cliente 870,cliente870@exemplo.com,São Paulo,2022-03-25,False
+871,Cliente 871,cliente871@exemplo.com,Recife,2022-04-28,False
+872,Cliente 872,cliente872@exemplo.com,Cuiabá,2022-06-09,False
+873,Cliente 873,cliente873@exemplo.com,São Paulo,2022-12-27,False
+874,Cliente 874,cliente874@exemplo.com,Cuiabá,2023-01-06,False
+875,Cliente 875,cliente875@exemplo.com,Recife,2023-11-24,False
+876,Cliente 876,,Manaus,2023-09-20,True
+877,Cliente 877,cliente877@exemplo.com,Manaus,2022-12-23,False
+878,Cliente 878,cliente878@exemplo.com,Curitiba,2024-01-31,False
+879,Cliente 879,cliente879@exemplo.com,Cuiabá,2024-04-23,False
+880,Cliente 880,cliente880@exemplo.com,Cuiabá,2024-01-02,False
+881,Cliente 881,cliente881@exemplo.com,Cuiabá,2022-03-07,False
+882,Cliente 882,cliente882@exemplo.com,Cuiabá,2023-04-07,False
+883,Cliente 883,cliente883@exemplo.com,São Paulo,2024-02-07,False
+884,Cliente 884,,Cuiabá,2023-03-25,True
+885,Cliente 885,cliente885@exemplo.com,Manaus,2023-02-27,False
+886,Cliente 886,cliente886@exemplo.com,Cuiabá,2023-09-14,False
+887,Cliente 887,cliente887@exemplo.com,Manaus,2022-02-08,False
+888,Cliente 888,cliente888@exemplo.com,Curitiba,2023-08-29,False
+889,Cliente 889,cliente889@exemplo.com,São Paulo,2022-09-02,False
+890,Cliente 890,cliente890@exemplo.com,Cuiabá,2024-03-15,False
+891,Cliente 891,cliente891@exemplo.com,Cuiabá,2022-12-31,False
+892,Cliente 892,cliente892@exemplo.com,Cuiabá,2022-09-20,False
+893,Cliente 893,cliente893@exemplo.com,Manaus,2023-09-09,False
+894,Cliente 894,cliente894@exemplo.com,Curitiba,2023-05-22,False
+895,Cliente 895,cliente895@exemplo.com,Recife,2023-03-18,False
+896,Cliente 896,cliente896@exemplo.com,Cuiabá,2023-03-24,False
+897,Cliente 897,cliente897@exemplo.com,Curitiba,2023-04-23,False
+898,Cliente 898,cliente898@exemplo.com,Curitiba,2022-10-17,False
+899,Cliente 899,cliente899@exemplo.com,São Paulo,2022-08-14,False
+900,Cliente 900,cliente900@exemplo.com,Recife,2023-11-01,False
+901,Cliente 901,cliente901@exemplo.com,Recife,2022-09-08,False
+902,Cliente 902,cliente902@exemplo.com,Cuiabá,2022-07-13,False
+903,Cliente 903,cliente903@exemplo.com,Curitiba,2023-08-04,False
+904,Cliente 904,cliente904@exemplo.com,Curitiba,2022-04-02,False
+905,Cliente 905,cliente905@exemplo.com,Cuiabá,2022-07-25,False
+906,Cliente 906,cliente906@exemplo.com,Manaus,2022-09-10,False
+907,Cliente 907,cliente907@exemplo.com,Recife,2022-07-26,False
+908,Cliente 908,cliente908@exemplo.com,Manaus,2022-09-15,False
+909,Cliente 909,cliente909@exemplo.com,Manaus,2023-06-05,False
+910,Cliente 910,cliente910@exemplo.com,Recife,2023-04-09,False
+911,Cliente 911,cliente911@exemplo.com,Manaus,2023-11-24,False
+912,Cliente 912,,Cuiabá,2022-09-19,True
+913,Cliente 913,cliente913@exemplo.com,São Paulo,2022-10-02,False
+914,Cliente 914,cliente914@exemplo.com,Curitiba,2022-03-21,False
+915,Cliente 915,cliente915@exemplo.com,Recife,2022-01-23,False
+916,Cliente 916,cliente916@exemplo.com,Cuiabá,2023-06-02,False
+917,Cliente 917,cliente917@exemplo.com,Manaus,2023-10-23,False
+918,Cliente 918,,Manaus,2023-04-02,True
+919,Cliente 919,cliente919@exemplo.com,Cuiabá,2024-05-23,False
+920,Cliente 920,cliente920@exemplo.com,Cuiabá,2022-03-09,False
+921,Cliente 921,cliente921@exemplo.com,Manaus,2023-02-14,False
+922,Cliente 922,cliente922@exemplo.com,Recife,2024-05-19,False
+923,Cliente 923,cliente923@exemplo.com,Recife,2022-11-18,False
+924,Cliente 924,cliente924@exemplo.com,São Paulo,2022-05-01,False
+925,Cliente 925,cliente925@exemplo.com,Curitiba,2022-08-27,False
+926,Cliente 926,cliente926@exemplo.com,Recife,2023-02-16,False
+927,Cliente 927,cliente927@exemplo.com,Recife,2023-04-01,False
+928,Cliente 928,cliente928@exemplo.com,Manaus,2024-02-07,False
+929,Cliente 929,cliente929@exemplo.com,Curitiba,2023-07-31,False
+930,Cliente 930,cliente930@exemplo.com,Recife,2022-06-17,False
+931,Cliente 931,cliente931@exemplo.com,Recife,2022-05-13,False
+932,Cliente 932,cliente932@exemplo.com,Curitiba,2022-01-14,False
+933,Cliente 933,cliente933@exemplo.com,Cuiabá,2023-05-01,False
+934,Cliente 934,cliente934@exemplo.com,Cuiabá,2023-06-02,False
+935,Cliente 935,cliente935@exemplo.com,Curitiba,2022-03-18,False
+936,Cliente 936,cliente936@exemplo.com,Cuiabá,2022-09-08,False
+937,Cliente 937,cliente937@exemplo.com,Cuiabá,2024-03-14,False
+938,Cliente 938,cliente938@exemplo.com,Curitiba,2024-04-25,False
+939,Cliente 939,cliente939@exemplo.com,Cuiabá,2023-02-22,False
+940,Cliente 940,cliente940@exemplo.com,Manaus,2024-03-15,False
+941,Cliente 941,cliente941@exemplo.com,Manaus,2023-12-24,False
+942,Cliente 942,cliente942@exemplo.com,Manaus,2023-11-24,False
+943,Cliente 943,cliente943@exemplo.com,Cuiabá,2022-08-26,False
+944,Cliente 944,cliente944@exemplo.com,Curitiba,2022-02-16,False
+945,Cliente 945,cliente945@exemplo.com,Cuiabá,2023-01-08,False
+946,Cliente 946,cliente946@exemplo.com,São Paulo,2023-02-10,False
+947,Cliente 947,cliente947@exemplo.com,Recife,2024-05-02,False
+948,Cliente 948,cliente948@exemplo.com,São Paulo,2022-04-30,False
+949,Cliente 949,cliente949@exemplo.com,Manaus,2022-11-29,False
+950,Cliente 950,cliente950@exemplo.com,Manaus,2022-05-03,False
+951,Cliente 951,cliente951@exemplo.com,São Paulo,2022-04-23,False
+952,Cliente 952,cliente952@exemplo.com,São Paulo,2023-11-20,False
+953,Cliente 953,cliente953@exemplo.com,Recife,2024-04-29,False
+954,Cliente 954,cliente954@exemplo.com,São Paulo,2022-01-23,False
+955,Cliente 955,cliente955@exemplo.com,São Paulo,2024-02-26,False
+956,Cliente 956,cliente956@exemplo.com,Curitiba,2022-01-02,False
+957,Cliente 957,cliente957@exemplo.com,Recife,2024-05-08,False
+958,Cliente 958,cliente958@exemplo.com,São Paulo,2023-07-09,False
+959,Cliente 959,cliente959@exemplo.com,São Paulo,2022-10-10,False
+960,Cliente 960,cliente960@exemplo.com,Cuiabá,2022-07-05,False
+961,Cliente 961,cliente961@exemplo.com,Cuiabá,2024-01-12,False
+962,Cliente 962,cliente962@exemplo.com,Manaus,2022-04-18,False
+963,Cliente 963,cliente963@exemplo.com,Manaus,2024-02-23,False
+964,Cliente 964,cliente964@exemplo.com,São Paulo,2024-05-14,False
+965,Cliente 965,cliente965@exemplo.com,São Paulo,2024-05-11,False
+966,Cliente 966,cliente966@exemplo.com,Recife,2022-03-13,False
+967,Cliente 967,cliente967@exemplo.com,Recife,2023-09-13,False
+968,Cliente 968,cliente968@exemplo.com,Manaus,2023-11-05,False
+969,Cliente 969,cliente969@exemplo.com,Recife,2023-08-26,False
+970,Cliente 970,cliente970@exemplo.com,São Paulo,2023-12-23,False
+971,Cliente 971,cliente971@exemplo.com,Recife,2023-08-24,False
+972,Cliente 972,cliente972@exemplo.com,Recife,2023-03-22,False
+973,Cliente 973,cliente973@exemplo.com,Cuiabá,2024-04-07,False
+974,Cliente 974,cliente974@exemplo.com,Recife,2022-08-10,False
+975,Cliente 975,cliente975@exemplo.com,Manaus,2023-11-07,False
+976,Cliente 976,cliente976@exemplo.com,Cuiabá,2023-10-27,False
+977,Cliente 977,cliente977@exemplo.com,Recife,2024-02-07,False
+978,Cliente 978,cliente978@exemplo.com,Curitiba,2022-03-23,False
+979,Cliente 979,cliente979@exemplo.com,Curitiba,2022-08-23,False
+980,Cliente 980,,Cuiabá,2022-03-09,True
+981,Cliente 981,cliente981@exemplo.com,Recife,2023-02-07,False
+982,Cliente 982,cliente982@exemplo.com,São Paulo,2024-01-16,False
+983,Cliente 983,cliente983@exemplo.com,São Paulo,2022-11-25,False
+984,Cliente 984,cliente984@exemplo.com,Manaus,2023-12-19,False
+985,Cliente 985,cliente985@exemplo.com,São Paulo,2022-06-07,False
+986,Cliente 986,cliente986@exemplo.com,São Paulo,2024-04-06,False
+987,Cliente 987,cliente987@exemplo.com,São Paulo,2024-01-28,False
+988,Cliente 988,cliente988@exemplo.com,São Paulo,2024-04-11,False
+989,Cliente 989,cliente989@exemplo.com,Cuiabá,2022-07-21,False
+990,Cliente 990,cliente990@exemplo.com,Recife,2023-10-27,False
+991,Cliente 991,cliente991@exemplo.com,Manaus,2023-03-12,False
+992,Cliente 992,cliente992@exemplo.com,São Paulo,2022-06-05,False
+993,Cliente 993,cliente993@exemplo.com,Recife,2022-01-15,False
+994,Cliente 994,cliente994@exemplo.com,Manaus,2022-09-04,False
+995,Cliente 995,cliente995@exemplo.com,Curitiba,2023-12-28,False
+996,Cliente 996,cliente996@exemplo.com,São Paulo,2023-09-19,False
+997,Cliente 997,cliente997@exemplo.com,Cuiabá,2024-05-03,False
+998,Cliente 998,cliente998@exemplo.com,Manaus,2023-02-21,False
+999,Cliente 999,cliente999@exemplo.com,Manaus,2024-03-20,False
+1000,Cliente 1000,cliente1000@exemplo.com,Recife,2023-10-12,False
